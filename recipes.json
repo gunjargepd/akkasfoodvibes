@@ -1,0 +1,315 @@
+[
+  {
+    "title": "Soft and Fluffy Idli with Aromatic Sambar",
+    "description": "Learn to make perfect, melt-in-your-mouth soft steamed rice idlis served with a flavorful vegetable sambar and fresh coconut chutney. / सीखें एकदम नरम, मुंह में घुलने वाली इडली, स्वादिष्ट सांबर और ताजी नारियल की चटनी बनाने की सबसे आसान विधि।",
+    "prepTime": 20,
+    "cookTime": 15,
+    "yield": "4 servings",
+    "difficulty": "Medium",
+    "category": "Breakfast",
+    "keywords": "Idli Sambar Recipe, Soft Idli, South Indian Breakfast, Healthy Steamed Food, Coconut Chutney",
+    "ingredients": [
+      "2 cups parboiled idli rice / २ कप इडली चावल",
+      "1/2 cup whole white urad dal / १/२ कप उड़द दाल",
+      "1/2 tsp fenugreek seeds / १/२ छोटा चम्मच मेथी दाना",
+      "Salt to taste / स्वादानुसार नमक",
+      "Water for grinding / पीसने के लिए पानी",
+      "For Sambar: 1 cup toor dal, mixed vegetables (drumstick, pumpkin, carrot), 2 tbsp sambar powder, tamarind pulp / सांबर के लिए: १ कप अरहर दाल, मिश्रित सब्जियां (सहजन, कद्दू, गाजर), २ चम्मच सांबर पाउडर, इमली का गूदा",
+      "For Chutney: 1 cup fresh grated coconut, 2 tbsp roasted chana dal, 1 green chili, ginger, salt / चटनी के लिए: १ कप ताजा कद्दूकस किया हुआ नारियल, २ चम्मच भुनी हुई चना दाल, १ हरी मिर्च, अदरक, नमक"
+    ],
+    "instructions": [
+      {
+        "title": "Soak Grains and Lentils",
+        "text": "Wash and soak idli rice and urad dal (with fenugreek seeds) separately in water for 5-6 hours. / इडली चावल और उड़द दाल (मेथी दाना के साथ) को अलग-अलग पानी में ५-६ घंटे के लिए भिगो दें।"
+      },
+      {
+        "title": "Grind into a Smooth Batter",
+        "text": "Grind urad dal into a very fluffy, smooth paste. Grind rice into a slightly coarse batter. Mix them together with salt and let it ferment overnight (8-10 hours) in a warm place. / उड़द दाल को बहुत ही रोयेदार और चिकना पीस लें। चावल को थोड़ा दरदरा पीसें। दोनों को नमक के साथ मिलाएं और रात भर (८-१० घंटे) गर्म जगह पर खमीर उठने के लिए रख दें।"
+      },
+      {
+        "title": "Steam the Idlis",
+        "text": "Grease idli plates with oil, pour the fermented batter, and steam in an idli pot or cooker for 10-12 minutes until a toothpick inserted comes out clean. / इडली प्लेटों को तेल से चिकना करें, घोल डालें और इडली पॉट या कुकर में १०-१२ मिनट तक भाप में पकाएं जब तक कि टूथपिक डालने पर साफ न निकले।"
+      },
+      {
+        "title": "Prepare Sambar and Chutney",
+        "text": "Boil toor dal with turmeric. Cook vegetables with tamarind, sambar powder, and salt, then mix with the dal and add a tempering of mustard seeds, curry leaves, and hing. For chutney, blend coconut, chana dal, green chili, and ginger, then temper with mustard and curry leaves. / अरहर दाल को हल्दी के साथ उबालें। सब्जियों को इमली, सांबर पाउडर और नमक के साथ पकाएं, फिर दाल के साथ मिलाएं और राई, कढ़ी पत्ता और हींग का तड़का लगाएं। चटनी के लिए नारियल, चना दाल, हरी मिर्च और अदरक को पीस लें, फिर राई और कढ़ी पत्ते का तड़का लगाएं।"
+      }
+    ],
+    "nutrition": {
+      "calories": 280,
+      "fat": 3,
+      "protein": 7,
+      "carbs": 56
+    },
+    "cuisine": "South Indian Style",
+    "id": "2026-06-30-1",
+    "fileName": "soft-and-fluffy-idli-with-aromatic-sambar.html",
+    "imageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Konkan Solkadhi Curry: Creamy Coconut & Tangy Kokum Delight",
+    "description": "Experience the vibrant flavors of the Konkan coast reimagined for a Puneri Thali dinner with this exquisite Solkadhi-inspired curry. A symphony of creamy coconut milk, tart kokum, fresh ginger, garlic, and green chilies, simmered to perfection. This unique vegetarian delight offers a refreshing yet satisfying main course, traditionally served with steamed rice, embodying the spirit of Maharashtrian culinary artistry.\nकोकण तट के जीवंत स्वादों का अनुभव करें, इस उत्कृष्ट सोलक़ढ़ी-प्रेरित करी के साथ पुनेरी थाली के रात्रिभोज के लिए इसे नया रूप दिया गया है। क्रीमी नारियल दूध, खट्टे कोकम, ताज़ी अदरक, लहसुन और हरी मिर्च का एक सामंजस्य, पूर्णता तक पकाया गया। यह अनोखी शाकाहारी डिश एक ताज़गी भरा फिर भी संतोषजनक मुख्य व्यंजन प्रस्तुत करती है, जिसे पारंपरिक रूप से उबले हुए चावल के साथ परोसा जाता है, जो महाराष्ट्रीयन पाक कला की भावना को दर्शाता है।",
+    "prepTime": 20,
+    "cookTime": 25,
+    "yield": "4 servings",
+    "difficulty": "Medium",
+    "category": "Dinner",
+    "keywords": "Maharashtrian, Solkadhi, Konkan, Coconut Curry, Kokum, Puneri Thali, Dinner, Vegetarian, Creamy, Tangy, Indian Cuisine",
+    "ingredients": [
+      "1 cup fresh grated coconut / १ कप ताज़ा कद्दूकस किया हुआ नारियल (or 1.5 cups readymade thick coconut milk / या १.५ कप तैयार गाढ़ा नारियल का दूध)",
+      "6-8 pieces dried kokum / ६-८ सूखे कोकम के टुकड़े",
+      "2-3 green chilies, adjust to taste / २-३ हरी मिर्च, स्वादानुसार समायोजित करें",
+      "1 inch ginger piece / १ इंच अदरक का टुकड़ा",
+      "3-4 cloves garlic / ३-४ लहसुन की कलियाँ",
+      "1/2 tsp mustard seeds / १/२ छोटा चम्मच राई",
+      "1/4 tsp cumin seeds / १/४ छोटा चम्मच जीरा",
+      "Pinch of asafoetida (hing) / चुटकी भर हींग",
+      "8-10 curry leaves / ८-१० कढ़ी पत्ता",
+      "1/4 tsp turmeric powder / १/४ छोटा चम्मच हल्दी पाउडर",
+      "1 tbsp oil / १ बड़ा चम्मच तेल",
+      "Salt to taste / स्वादानुसार नमक",
+      "1 tsp jaggery or sugar (optional, for balance) / १ छोटा चम्मच गुड़ या शक्कर (वैकल्पिक, स्वाद संतुलन के लिए)",
+      "Fresh coriander leaves for garnish / सजावट के लिए ताज़ा हरा धनिया",
+      "1 cup water (for kokum and coconut milk if from scratch) / १ कप पानी (कोकम और नारियल दूध के लिए यदि घर पर बना रहे हों)"
+    ],
+    "instructions": [
+      {
+        "title": "Prepare Coconut Milk & Kokum Extract",
+        "text": "If using fresh coconut, blend the grated coconut with 1 cup hot water and strain to extract thick coconut milk. Repeat with 1/2 cup water for thin milk. Keep aside. For the kokum, soak dried kokum pieces in 1/2 cup warm water for 15-20 minutes. Gently squeeze the kokum to extract its essence and color into the water. Discard the solids and reserve the kokum extract.\nयदि ताज़े नारियल का उपयोग कर रहे हैं, तो कद्दूकस किए हुए नारियल को १ कप गर्म पानी के साथ पीसकर गाढ़ा नारियल का दूध निकालें और छान लें। पतले दूध के लिए १/२ कप पानी के साथ दोहराएँ। एक तरफ रख दें। कोकम के लिए, सूखे कोकम के टुकड़ों को १/२ कप गर्म पानी में १५-२० मिनट के लिए भिगो दें। कोकम को धीरे से निचोड़कर उसका सार और रंग पानी में निकाल लें। ठोस पदार्थ हटा दें और कोकम का अर्क अलग रख दें।"
+      },
+      {
+        "title": "Crush Ginger, Garlic & Green Chilies",
+        "text": "In a mortar and pestle, crush ginger, garlic, and green chilies into a coarse paste. Alternatively, finely chop them.\nखल और मूसल में अदरक, लहसुन और हरी मिर्च को दरदरा पीस लें। वैकल्पिक रूप से, उन्हें बारीक काट लें।"
+      },
+      {
+        "title": "Prepare the Tempering",
+        "text": "Heat oil in a medium-sized pan over medium heat. Add mustard seeds and let them splutter. Then add cumin seeds, asafoetida, and curry leaves. Sauté for a few seconds until fragrant.\nमध्यम आंच पर एक मध्यम आकार के पैन में तेल गरम करें। राई डालें और उन्हें तड़कने दें। फिर जीरा, हींग और कढ़ी पत्ता डालें। कुछ सेकंड के लिए खुशबू आने तक भूनें।"
+      },
+      {
+        "title": "Combine & Simmer the Curry",
+        "text": "Add the crushed ginger, garlic, and green chili paste to the tempering and sauté for 1-2 minutes until the raw smell disappears. Add turmeric powder and mix well. Now, add the reserved kokum extract and the thin coconut milk (or about 1 cup water if using ready thick coconut milk). Bring to a gentle simmer, then stir in the thick coconut milk (or remaining ready thick coconut milk). Add salt to taste and jaggery/sugar if using. Mix gently.\nतड़के में कुचली हुई अदरक, लहसुन और हरी मिर्च का पेस्ट डालें और १-२ मिनट तक भूनें जब तक कच्ची गंध गायब न हो जाए। हल्दी पाउडर डालें और अच्छी तरह मिलाएँ। अब, बचा हुआ कोकम अर्क और पतला नारियल दूध (या यदि तैयार गाढ़ा नारियल दूध का उपयोग कर रहे हैं तो लगभग १ कप पानी) डालें। एक हल्की उबाल आने दें, फिर गाढ़ा नारियल दूध (या बचा हुआ तैयार गाढ़ा नारियल दूध) मिलाएँ। स्वादानुसार नमक और यदि उपयोग कर रहे हैं तो गुड़/शक्कर डालें। धीरे से मिलाएँ।"
+      },
+      {
+        "title": "Final Touches & Serve",
+        "text": "Simmer the curry for another 3-5 minutes on low heat, ensuring it doesn't boil vigorously, as coconut milk can curdle. Do not overcook. Garnish generously with fresh coriander leaves. Serve hot with steamed rice or bhakri as part of a traditional Puneri Thali dinner.\nकरी को धीमी आंच पर ३-५ मिनट और पकाएँ, ध्यान रहे कि यह तेज़ी से न उबले, क्योंकि नारियल का दूध फट सकता है। ज़्यादा न पकाएँ। ताज़े हरे धनिये से अच्छी तरह सजाएँ। इसे उबले हुए चावल या भाकरी के साथ पारंपरिक पुनेरी थाली रात्रिभोज के हिस्से के रूप में गरमागरम परोसें।"
+      }
+    ],
+    "nutrition": {
+      "calories": 280,
+      "fat": 20,
+      "protein": 3,
+      "carbs": 22
+    },
+    "cuisine": "Puneri Thali",
+    "id": "2026-06-30-2",
+    "fileName": "konkan-solkadhi-curry-creamy-coconut-tangy-kokum-delight.html",
+    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Vidarbha Shahi Sabudana Kheer: Saffron-Kissed Royal Pearl Pudding",
+    "description": "Experience the exquisite blend of traditional Maharashtrian flavors with a regal twist in our Vidarbha Shahi Sabudana Kheer. This luxurious dessert transforms humble tapioca pearls into a royal treat, infused with aromatic saffron, delicate cardamom, and a surprising, subtle warmth from traditional Vidarbha spices. It's a rich, creamy, and truly special pudding, perfect for festive occasions or an indulgent sweet craving. / विदर्भ शाही साबूदाना खीर के साथ पारंपरिक महाराष्ट्रीयन स्वादों और शाही अंदाज़ का अनुभव करें। यह शानदार मिठाई साधारण साबूदाना को केसर, इलायची और विदर्भ के पारंपरिक मसालों की एक अनोखी, सूक्ष्म गर्मी के साथ एक शाही व्यंजन में बदल देती है। यह एक गाढ़ी, मलाईदार और वास्तव में विशेष खीर है, जो त्योहारों या किसी खास मीठे के लिए एकदम सही है।",
+    "prepTime": 20,
+    "cookTime": 35,
+    "yield": "4 servings",
+    "difficulty": "Medium",
+    "category": "Dessert",
+    "keywords": "Sabudana Kheer, Maharashtrian Dessert, Vidarbha Special, Saffron Pudding, Indian Sweet, Tapioca Pudding, Festive Dessert, Royal Kheer, Cardamom Kheer",
+    "ingredients": [
+      "1 cup Sabudana (medium-sized) / १ कप साबूदाना (मध्यम आकार का)",
+      "4 cups Full-fat milk / ४ कप फुल-फैट दूध",
+      "1 cup Granulated sugar / १ कप दानेदार चीनी",
+      "2 tbsp Ghee (clarified butter) / २ बड़े चम्मच घी",
+      "15-20 Saffron strands / १५-२० केसर के धागे",
+      "1/2 tsp Green cardamom powder / १/२ छोटा चम्मच हरी इलायची पाउडर",
+      "1/4 tsp Dry ginger powder (Sonth) / १/४ छोटा चम्मच सोंठ पाउडर",
+      "A tiny pinch of Kashmiri red chili powder (for color and subtle warmth, optional) / एक चुटकी कश्मीरी लाल मिर्च पाउडर (रंग और सूक्ष्म गर्मी के लिए, वैकल्पिक)",
+      "1/4 cup Chopped almonds / १/४ कप कटे हुए बादाम",
+      "1/4 cup Chopped pistachios / १/४ कप कटे हुए पिस्ते",
+      "2 tbsp Raisins / २ बड़े चम्मच किशमिश"
+    ],
+    "instructions": [
+      {
+        "title": "Prepare the Sabudana",
+        "text": "Rinse the sabudana thoroughly under running water until the water runs clear. Soak it in 1 cup of water for at least 4-5 hours or overnight. Ensure the water level is just about 1/2 inch above the sabudana. The pearls should become soft and plump. / साबूदाना को बहते पानी के नीचे अच्छी तरह धो लें जब तक पानी साफ न निकल जाए। इसे १ कप पानी में कम से कम ४-५ घंटे या रात भर भिगो दें। सुनिश्चित करें कि पानी का स्तर साबूदाना से लगभग १/२ इंच ऊपर हो। मोती नरम और फूले हुए होने चाहिए।"
+      },
+      {
+        "title": "Infuse Saffron and Heat Milk",
+        "text": "Warm 2 tablespoons of milk and soak the saffron strands in it to release their color and aroma. In a heavy-bottomed pan, bring the remaining 3.5 cups of milk to a boil over medium heat. Reduce the heat and let it simmer for 10 minutes, stirring occasionally, until it slightly thickens. / २ बड़े चम्मच दूध गरम करें और उसमें केसर के धागों को भिगो दें ताकि उनका रंग और सुगंध निकल जाए। एक भारी तले के पैन में, बचे हुए ३.५ कप दूध को मध्यम आंच पर उबाल लें। आंच कम करें और इसे १० मिनट तक धीमी आंच पर पकाएं, बीच-बीच में हिलाते रहें, जब तक यह थोड़ा गाढ़ा न हो जाए।"
+      },
+      {
+        "title": "Cook the Sabudana",
+        "text": "Drain any excess water from the soaked sabudana. Add the soaked sabudana to the simmering milk. Cook on low to medium heat, stirring continuously to prevent sticking, until the sabudana pearls turn translucent (about 10-15 minutes). / भीगे हुए साबूदाना से अतिरिक्त पानी निकाल दें। भीगे हुए साबूदाना को उबलते दूध में डालें। धीमी से मध्यम आंच पर पकाएं, लगातार हिलाते रहें ताकि चिपके नहीं, जब तक साबूदाना के मोती पारदर्शी न हो जाएं (लगभग १०-१५ मिनट)।"
+      },
+      {
+        "title": "Add Sweetness and Spices",
+        "text": "Stir in the sugar, saffron-infused milk, green cardamom powder, dry ginger powder, and the tiny pinch of Kashmiri red chili powder (if using). Mix well until the sugar dissolves completely. Continue to simmer for another 5 minutes, allowing the flavors to meld. / चीनी, केसर-युक्त दूध, हरी इलायची पाउडर, सोंठ पाउडर और एक चुटकी कश्मीरी लाल मिर्च पाउडर (यदि उपयोग कर रहे हैं) डालकर मिलाएं। अच्छी तरह मिलाएं जब तक चीनी पूरी तरह घुल न जाए। स्वादों को आपस में मिलने देने के लिए और ५ मिनट तक धीमी आंच पर पकाएं।"
+      },
+      {
+        "title": "Temper Dry Fruits",
+        "text": "In a small separate pan, heat the ghee. Add the chopped almonds, pistachios, and raisins. Sauté on low heat until the nuts are lightly golden and the raisins plump up. / एक छोटे अलग पैन में घी गरम करें। कटे हुए बादाम, पिस्ते और किशमिश डालें। धीमी आंच पर भूनें जब तक मेवे हल्के सुनहरे न हो जाएं और किशमिश फूल न जाए।"
+      },
+      {
+        "title": "Garnish and Serve",
+        "text": "Pour the tempered dry fruits, along with the ghee, into the Sabudana Kheer. Stir gently. Serve the Vidarbha Shahi Sabudana Kheer warm or chilled, garnished with a few extra saffron strands and chopped nuts. / तड़के वाले सूखे मेवे, घी के साथ, साबूदाना खीर में डालें। धीरे से हिलाएं। विदर्भ शाही साबूदाना खीर को गर्म या ठंडा परोसें, ऊपर से थोड़े अतिरिक्त केसर के धागे और कटे हुए मेवे से सजाएं।"
+      }
+    ],
+    "nutrition": {
+      "calories": 600,
+      "fat": 25,
+      "protein": 15,
+      "carbs": 85
+    },
+    "cuisine": "Vidarbha Spicy Special",
+    "id": "2026-06-30-3",
+    "fileName": "vidarbha-shahi-sabudana-kheer-saffron-kissed-royal-pearl-pudding.html",
+    "imageUrl": "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=800&q=80",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Vidarbha's Fiery Taro Leaf Rolls (Aluchi Vadi)",
+    "description": "Experience the bold and authentic flavors of Vidarbha with these irresistible Aluchi Vadi! These spicy taro leaf rolls are a traditional Maharashtrian delicacy, where tender colocasia leaves are slathered with a robust, tangy, and extra-spicy gram flour paste, then expertly rolled, steamed to perfection, and finally shallow-fried until crispy. Our Vidarbha Special version boasts an intensified heat and aromatic spices, making it a perfect hearty dinner accompaniment or a standalone spicy delight.\n/ विदर्भ के तीखे और प्रामाणिक स्वाद का अनुभव करें इन लाजवाब अलू वड़ी के साथ! ये मसालेदार अरबी पत्ते के रोल्स एक पारंपरिक महाराष्ट्रीयन व्यंजन हैं, जहाँ कोमल अरबी के पत्तों पर एक तीखा, खट्टा और अतिरिक्त मसालेदार बेसन का पेस्ट लगाया जाता है, फिर सावधानी से रोल किया जाता है, भाप में पूरी तरह पकाया जाता है, और अंत में कुरकुरा होने तक शैलो-फ्राई किया जाता है। हमारा विदर्भ स्पेशल संस्करण तेज गर्मी और सुगंधित मसालों के साथ आता है, जो इसे रात के खाने के लिए एक उत्तम संगत या अपने आप में एक मसालेदार व्यंजन बनाता है।",
+    "prepTime": 45,
+    "cookTime": 50,
+    "yield": "4-6 servings",
+    "difficulty": "Medium",
+    "category": "Dinner",
+    "keywords": "Aluchi Vadi, Vidarbha special, spicy taro rolls, colocasia leaves, Maharashtrian recipe, traditional Indian, vegetarian, dinner, healthy snack, steam fried",
+    "ingredients": [
+      "12-15 large Colocasia leaves (Arbi ke Patte) / १२-१५ बड़े अरबी के पत्ते",
+      "1.5 cups Gram flour (Besan) / १.५ कप बेसन",
+      "0.5 cup Rice flour (Chawal ka Atta) / ०.५ कप चावल का आटा",
+      "3-4 Green chilies (Hari Mirch), finely chopped or pasted / ३-४ हरी मिर्च, बारीक कटी या पीसी हुई",
+      "2 inch Ginger (Adrak), grated or pasted / २ इंच अदरक, कद्दूकस या पीसा हुआ",
+      "8-10 cloves Garlic (Lahsun), crushed or pasted / ८-१० कली लहसुन, कुचला या पीसा हुआ",
+      "2 tbsp Tamarind pulp (Imli ka Gooda) / २ बड़े चम्मच इमली का गूदा",
+      "2 tbsp Jaggery (Gud), grated / २ बड़े चम्मच गुड़, कद्दूकस किया हुआ",
+      "1 tsp Turmeric powder (Haldi Powder) / १ छोटा चम्मच हल्दी पाउडर",
+      "1.5 tsp Red chili powder (Lal Mirch Powder) / १.५ छोटा चम्मच लाल मिर्च पाउडर",
+      "1 tsp Coriander powder (Dhaniya Powder) / १ छोटा चम्मच धनिया पाउडर",
+      "0.5 tsp Cumin powder (Jeera Powder) / ०.५ छोटा चम्मच जीरा पाउडर",
+      "0.5 tsp Garam Masala / ०.५ छोटा चम्मच गरम मसाला",
+      "2 tbsp White sesame seeds (Safed Til) / २ बड़े चम्मच सफेद तिल",
+      "2 tbsp Roasted crushed peanuts (Bhuni hui Moongfali ka Powder) / २ बड़े चम्मच भुनी हुई मूंगफली का दरदरा पाउडर",
+      "Salt (Namak) to taste / स्वादानुसार नमक",
+      "0.5 cup Water (Pani) or as needed / ०.५ कप पानी या आवश्यकतानुसार",
+      "Oil (Tel) for shallow frying and greasing / शैलो फ्राई और चिकनाई के लिए तेल",
+      "1 tsp Mustard seeds (Rai), for tempering / १ छोटा चम्मच राई, तड़के के लिए (वैकल्पिक)",
+      "1 tsp Cumin seeds (Jeera), for tempering / १ छोटा चम्मच जीरा, तड़के के लिए (वैकल्पिक)",
+      "Few Curry leaves (Kadi Patta), for tempering / कुछ कढ़ी पत्ते, तड़के के लिए (वैकल्पिक)",
+      "A pinch of Asafoetida (Hing), for tempering / एक चुटकी हींग, तड़के के लिए (वैकल्पिक)"
+    ],
+    "instructions": [
+      {
+        "title": "Prepare the Colocasia Leaves",
+        "text": "Wash the colocasia leaves thoroughly. Remove the thick stems and shave off the prominent veins from the back of each leaf using a knife without tearing them. This helps in easy rolling and prevents itchiness. Pat them dry.\n/ अरबी के पत्तों को अच्छी तरह धो लें। प्रत्येक पत्ते के पीछे की मोटी डंठल और प्रमुख नसों को चाकू से बिना फाड़े हटा दें। इससे रोल करने में आसानी होती है और खुजली नहीं होती। उन्हें सूखा पोंछ लें।"
+      },
+      {
+        "title": "Prepare the Spicy Gram Flour Paste (Pithla)",
+        "text": "In a large bowl, combine gram flour, rice flour, finely chopped/pasted green chilies, grated/pasted ginger, crushed/pasted garlic, tamarind pulp, grated jaggery, turmeric powder, red chili powder, coriander powder, cumin powder, garam masala, sesame seeds, crushed peanuts, and salt. Gradually add water and mix well to form a thick, smooth, and spreadable paste. Ensure there are no lumps. The paste should be spicy, tangy, and slightly sweet to balance the flavors of the leaves.\n/ एक बड़े कटोरे में बेसन, चावल का आटा, बारीक कटी/पिसी हरी मिर्च, कद्दूकस/पिसा अदरक, कुचला/पिसा लहसुन, इमली का गूदा, कद्दूकस किया गुड़, हल्दी पाउडर, लाल मिर्च पाउडर, धनिया पाउडर, जीरा पाउडर, गरम मसाला, तिल, कुचली हुई मूंगफली और नमक मिलाएं। धीरे-धीरे पानी डालते हुए एक गाढ़ा, चिकना और फैलाने योग्य पेस्ट बना लें। सुनिश्चित करें कि इसमें कोई गांठ न हो। पेस्ट मसालेदार, खट्टा और थोड़ा मीठा होना चाहिए ताकि पत्तों के स्वाद को संतुलित कर सके।"
+      },
+      {
+        "title": "Assemble the Vadi Rolls",
+        "text": "Place a large colocasia leaf, glossy side down, on a clean surface. Spread a thin, even layer of the prepared gram flour paste over the entire leaf. Place a slightly smaller leaf on top of the first, again glossy side down, and spread paste. Repeat with 2-3 more leaves, decreasing in size, making a stack. Carefully fold the sides of the stack inwards (about 1-2 inches) and then tightly roll the leaves from the bottom upwards into a firm cylindrical roll. Repeat this process for all leaves to make several rolls.\n/ एक बड़े अरबी के पत्ते को चिकनी तरफ नीचे करके एक साफ सतह पर रखें। तैयार बेसन के पेस्ट की एक पतली, समान परत पूरे पत्ते पर फैलाएं। पहले पत्ते के ऊपर एक थोड़ा छोटा पत्ता रखें, फिर से चिकनी तरफ नीचे करके, और पेस्ट फैलाएं। इसी तरह २-३ और पत्तों के साथ दोहराएं, आकार में घटते हुए, एक स्टैक बनाते हुए। स्टैक के किनारों को सावधानी से अंदर की ओर मोड़ें (लगभग १-२ इंच) और फिर पत्तों को नीचे से ऊपर की ओर कसकर एक बेलनाकार रोल में मोड़ें। सभी पत्तों के लिए इस प्रक्रिया को दोहराकर कई रोल बनाएं।"
+      },
+      {
+        "title": "Steam the Rolls",
+        "text": "Grease a steamer plate or colander. Arrange the prepared rolls on it, ensuring they are not touching each other. Steam them for 25-30 minutes on medium-high heat, or until a knife inserted comes out clean. The rolls will darken in color and become firm. Let them cool completely. Cooling is crucial for easy slicing.\n/ एक स्टीमर प्लेट या छलनी को चिकना कर लें। उस पर तैयार रोल्स को व्यवस्थित करें, सुनिश्चित करें कि वे एक-दूसरे को न छूएं। उन्हें मध्यम-तेज आंच पर २५-३० मिनट तक भाप दें, या जब तक चाकू डालने पर साफ न निकले। रोल्स का रंग गहरा हो जाएगा और वे सख्त हो जाएंगे। उन्हें पूरी तरह से ठंडा होने दें। आसान स्लाइसिंग के लिए ठंडा करना महत्वपूर्ण है।"
+      },
+      {
+        "title": "Slice and Shallow Fry",
+        "text": "Once cooled, slice each roll into ½ to ¾ inch thick vadi (discs). Heat oil in a large non-stick pan or tawa for shallow frying. Once hot, add the sliced vadi and shallow-fry them on all sides until they are golden brown and crispy. This usually takes 3-4 minutes per side. Alternatively, for a healthier option, you can temper them.\n/ ठंडा होने के बाद, प्रत्येक रोल को १/२ से ३/४ इंच मोटी वड़ी (टुकड़ों) में काट लें। शैलो फ्राई के लिए एक बड़े नॉन-स्टिक पैन या तवे में तेल गरम करें। गरम होने पर, कटे हुए वड़ी डालें और चारों तरफ से सुनहरा भूरा और कुरकुरा होने तक शैलो-फ्राई करें। इसमें आमतौर पर प्रति तरफ ३-४ मिनट लगते हैं। वैकल्पिक रूप से, एक स्वस्थ विकल्प के लिए, आप उन्हें तड़का लगा सकते हैं।"
+      },
+      {
+        "title": "Optional Tempering (Tadka)",
+        "text": "For a lighter version or added flavor, heat 2 tablespoons of oil in a pan. Add mustard seeds, cumin seeds, asafoetida, and curry leaves. Once the mustard seeds splutter, add the steamed (but not fried) vadi slices and toss gently until lightly coated and heated through. This step is common in Vidarbha for a different texture.\n/ एक हल्के संस्करण या अतिरिक्त स्वाद के लिए, एक पैन में २ बड़े चम्मच तेल गरम करें। राई, जीरा, हींग और कढ़ी पत्ते डालें। जब राई चटकने लगे, तो भाप में पके (लेकिन तले हुए नहीं) वड़ी के टुकड़े डालें और धीरे से टॉस करें जब तक वे हल्के से कोट न हो जाएं और गर्म न हो जाएं। यह कदम विदर्भ में एक अलग बनावट के लिए आम है।"
+      },
+      {
+        "title": "Serve Hot",
+        "text": "Serve the hot and crispy Vidarbha's Fiery Taro Leaf Rolls with your favorite chutney, tomato ketchup, or simply as a spicy side dish with your main meal. These are best enjoyed fresh.\n/ गरमागरम और कुरकुरी विदर्भ की तीखी अलू वड़ी को अपनी पसंदीदा चटनी, टमाटर केचप या अपने मुख्य भोजन के साथ एक मसालेदार साइड डिश के रूप में परोसें। इनका आनंद ताज़ा ही सबसे अच्छा लगता है।"
+      }
+    ],
+    "nutrition": {
+      "calories": 380,
+      "fat": 18,
+      "protein": 12,
+      "carbs": 45
+    },
+    "cuisine": "Vidarbha Spicy Special",
+    "id": "2026-06-30-4",
+    "fileName": "vidarbhas-fiery-taro-leaf-rolls-aluchi-vadi.html",
+    "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=800&q=80",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Malvani Coconut & Sprout Misal Pav: A Coastal Delicacy",
+    "description": "Experience the vibrant flavors of Maharashtra's Konkan coast with this unique Malvani-style Misal Pav. Our rendition elevates the classic sprouted moth bean curry with a rich, aromatic Malvani masala, featuring roasted coconut, red chilies, and a medley of regional spices. Served piping hot with crunchy farsan, chopped onions, a squeeze of lemon, and soft pav, it’s a spicy, soulful, and utterly satisfying meal that transports you straight to the shores of Malvan. / महाराष्ट्र के कोंकण तट के जीवंत स्वाद का अनुभव करें इस अनोखे मालवणी स्टाइल मिसल पाव के साथ। हमारा यह संस्करण अंकुरित मटकी की पारंपरिक करी को एक समृद्ध, सुगंधित मालवणी मसाले के साथ ऊपर उठाता है, जिसमें भुना हुआ नारियल, लाल मिर्च और क्षेत्रीय मसालों का मिश्रण शामिल है। गरमागरम फरसाण, कटे हुए प्याज, नींबू का रस और नरम पाव के साथ परोसा गया, यह एक तीखा, आत्मिक और पूरी तरह से संतोषजनक भोजन है जो आपको सीधे मालवन के तटों पर ले जाता है।",
+    "prepTime": 25,
+    "cookTime": 40,
+    "yield": "4 servings",
+    "difficulty": "Medium",
+    "category": "Lunch",
+    "keywords": "Malvani Misal Pav, Maharashtrian, Coastal Cuisine, Spicy Curry, Sprouted Moth Beans, Coconut Curry, Traditional Indian Recipe, Lunch, Authentic Malvani",
+    "ingredients": [
+      "1.5 cups sprouted moth beans (Matki) / १.५ कप अंकुरित मटकी",
+      "1/2 cup grated dry coconut / १/२ कप कसा हुआ सूखा नारियल",
+      "4-5 dry red chilies (Bedgi or Kashmiri for color) / ४-५ सूखी लाल मिर्च (बेडगी या कश्मीरी रंग के लिए)",
+      "2 tbsp coriander seeds / २ बड़े चम्मच साबुत धनिया",
+      "1 tsp black peppercorns / १ छोटा चम्मच काली मिर्च",
+      "4-5 cloves / ४-५ लौंग",
+      "1-inch cinnamon stick / १ इंच दालचीनी का टुकड़ा",
+      "2 green cardamoms / २ हरी इलायची",
+      "1 star anise / १ चक्र फूल",
+      "1/2 tsp stone flower (Dagad Phool, optional but authentic) / १/२ छोटा चम्मच पत्थर फूल (दगड़ फूल, वैकल्पिक पर प्रामाणिक)",
+      "3 tbsp oil, divided / ३ बड़े चम्मच तेल, विभाजित",
+      "1 large onion, finely chopped / १ बड़ा प्याज, बारीक कटा हुआ",
+      "1 inch ginger, chopped / १ इंच अदरक, कटा हुआ",
+      "4-5 cloves garlic, chopped / ४-५ कली लहसुन, कटा हुआ",
+      "1/2 tsp mustard seeds / १/२ छोटा चम्मच राई",
+      "1/2 tsp cumin seeds / १/२ छोटा चम्मच जीरा",
+      "1 sprig curry leaves / १ टहनी कढ़ी पत्ता",
+      "1/2 tsp turmeric powder / १/२ छोटा चम्मच हल्दी पाउडर",
+      "1 tbsp Malvani Masala (store-bought or homemade) / १ बड़ा चम्मच मालवणी मसाला (बाजार का या घर का बना)",
+      "1 tsp red chili powder (adjust to taste) / १ छोटा चम्मच लाल मिर्च पाउडर (स्वाद के अनुसार समायोजित करें)",
+      "1 tbsp tamarind pulp / १ बड़ा चम्मच इमली का गूदा",
+      "1/2 tsp jaggery (optional, to balance flavors) / १/२ छोटा चम्मच गुड़ (वैकल्पिक, स्वाद को संतुलित करने के लिए)",
+      "Salt to taste / नमक स्वादानुसार",
+      "4-5 cups hot water / ४-५ कप गरम पानी",
+      "Fresh coriander leaves, chopped (for garnish) / ताजा हरा धनिया, कटा हुआ (सजाने के लिए)",
+      "4-6 Pav (Indian bread rolls) / ४-६ पाव (भारतीय ब्रेड रोल)",
+      "1 cup Farsan (mixture of crispy snacks) / १ कप फरसाण (कुरकुरे नमकीन का मिश्रण)",
+      "1 small onion, finely chopped (for garnish) / १ छोटा प्याज, बारीक कटा हुआ (सजाने के लिए)",
+      "Lemon wedges (for serving) / नींबू के टुकड़े (परोसने के लिए)"
+    ],
+    "instructions": [
+      {
+        "title": "Prepare the Aromatic Malvani Masala Paste",
+        "text": "Heat 1 tablespoon of oil in a pan. Add dry red chilies, coriander seeds, black peppercorns, cloves, cinnamon stick, green cardamoms, star anise, and stone flower. Dry roast on low heat until fragrant (about 2-3 minutes). Add grated dry coconut and roast until golden brown. Remove from heat and let it cool. Grind the roasted spices and coconut with 1/2 of the chopped onion, ginger, and garlic, adding a little water if needed, to form a smooth paste. / एक पैन में १ बड़ा चम्मच तेल गरम करें। सूखी लाल मिर्च, साबुत धनिया, काली मिर्च, लौंग, दालचीनी का टुकड़ा, हरी इलायची, चक्र फूल और पत्थर फूल डालें। धीमी आंच पर सुगंधित होने तक भूनें (लगभग २-३ मिनट)। कसा हुआ सूखा नारियल डालें और सुनहरा भूरा होने तक भूनें। आंच से उतारकर ठंडा होने दें। भुने हुए मसाले और नारियल को कटे हुए प्याज के आधे हिस्से, अदरक और लहसुन के साथ, आवश्यकतानुसार थोड़ा पानी डालकर, एक चिकना पेस्ट बनाने के लिए पीस लें।"
+      },
+      {
+        "title": "Cook the Sprouted Matki Curry",
+        "text": "In the same pan, heat 1 tablespoon of oil. Add mustard seeds, and once they splutter, add cumin seeds and curry leaves. Sauté the remaining 1/2 of the chopped onion until translucent. Add the sprouted moth beans and turmeric powder. Mix well and sauté for 2-3 minutes. Add 1 cup of hot water and salt. Cover and cook on medium heat until the matki is tender but not mushy (about 8-10 minutes). Keep aside. / उसी पैन में १ बड़ा चम्मच तेल गरम करें। राई डालें, और जब वे चटकने लगें, तो जीरा और कढ़ी पत्ता डालें। बचे हुए आधे कटे हुए प्याज को पारदर्शी होने तक भूनें। अंकुरित मटकी और हल्दी पाउडर डालें। अच्छी तरह मिलाएं और २-३ मिनट तक भूनें। १ कप गरम पानी और नमक डालें। ढककर मध्यम आंच पर तब तक पकाएं जब तक मटकी नरम न हो जाए लेकिन बहुत गली हुई न हो (लगभग ८-१० मिनट)। इसे एक तरफ रख दें।"
+      },
+      {
+        "title": "Prepare the Spicy Malvani Rassa (Kat)",
+        "text": "In a deep pot or Kadhai, heat the remaining 1 tablespoon of oil. Add the prepared Malvani masala paste and sauté on low heat for 5-7 minutes, stirring continuously, until the oil separates and the paste turns darker. This step is crucial for flavor. Add Malvani Masala powder and red chili powder. Mix well. Add the tamarind pulp, jaggery (if using), and remaining 3-4 cups of hot water. Bring it to a boil, then reduce heat and simmer for at least 15-20 minutes, allowing the flavors to meld and the rassa to thicken slightly. Season with salt. The rassa should be thin and spicy. / एक गहरे बर्तन या कड़ाही में बचा हुआ १ बड़ा चम्मच तेल गरम करें। तैयार मालवणी मसाला पेस्ट डालें और धीमी आंच पर ५-७ मिनट तक लगातार चलाते हुए भूनें, जब तक कि तेल अलग न हो जाए और पेस्ट गहरा न हो जाए। यह कदम स्वाद के लिए महत्वपूर्ण है। मालवणी मसाला पाउडर और लाल मिर्च पाउडर डालें। अच्छी तरह मिलाएं। इमली का गूदा, गुड़ (यदि उपयोग कर रहे हैं) और बचे हुए ३-४ कप गरम पानी डालें। इसे उबाल लें, फिर आंच कम करें और कम से कम १५-२० मिनट तक उबालें, जिससे स्वाद मिल जाए और रस्सा थोड़ा गाढ़ा हो जाए। नमक से स्वाद समायोजित करें। रस्सा पतला और तीखा होना चाहिए।"
+      },
+      {
+        "title": "Assemble and Serve the Malvani Misal",
+        "text": "To serve, take a bowl. First, add a portion of the cooked sprouted matki curry at the bottom. Ladle a generous amount of the hot Malvani rassa over the matki. Top with a handful of farsan, a sprinkle of finely chopped onions, and fresh coriander leaves. Serve immediately with soft pav and a wedge of lemon on the side. Enjoy this authentic coastal delight! / परोसने के लिए, एक कटोरी लें। सबसे पहले, नीचे पके हुए अंकुरित मटकी करी का एक हिस्सा डालें। मटकी के ऊपर गरमागरम मालवणी रस्से की एक उदार मात्रा डालें। ऊपर से एक मुट्ठी फरसाण, बारीक कटे हुए प्याज और ताजा हरा धनिया डालें। नरम पाव और नींबू के टुकड़े के साथ तुरंत परोसें। इस प्रामाणिक तटीय व्यंजन का आनंद लें!"
+      }
+    ],
+    "nutrition": {
+      "calories": 420,
+      "fat": 18,
+      "protein": 15,
+      "carbs": 48
+    },
+    "cuisine": "Malvani Cuisine",
+    "id": "2026-06-30-5",
+    "fileName": "malvani-coconut-sprout-misal-pav-a-coastal-delicacy.html",
+    "imageUrl": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=800&q=80",
+    "date": "2026-06-30"
+  }
+]

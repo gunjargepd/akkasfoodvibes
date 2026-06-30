@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- SEO Meta Tags -->
+  <title>AkkasFoodVibes | Fresh Delicious Recipes Everyday</title>
+  <meta name="description" content="Discover gourmet recipes generated daily. Learn to cook professional dishes with easy, step-by-step instructions. Optimized for home chefs.">
+  <meta name="keywords" content="food recipes, cooking, daily recipes, gourmet food, simple cooking, dinner ideas">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="AkkasFoodVibes | Fresh Delicious Recipes Everyday">
+  <meta property="og:description" content="Discover gourmet recipes generated daily. Learn to cook professional dishes with easy, step-by-step instructions.">
+  <meta property="og:image" content="https://gourmetdaily.github.io/assets/logo.jpg">
+
+  <!-- RSS Feed for Google News -->
+  <link rel="alternate" type="application/rss+xml" title="AkkasFoodVibes RSS Feed" href="feed.xml">
+  
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="styles.css">
+  
+  <!-- Lucide Icons (CDN) -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+
+  <!-- Navigation -->
+  <header>
+    <div class="container">
+      <nav>
+        <a href="index.html" class="logo" style="display: flex; align-items: center; gap: 10px;">
+          <img src="assets/logo.jpg" alt="AkkasFoodVibes Logo" style="height: 40px; width: 40px; border-radius: 50%; object-fit: cover;"> Akkas<span>FoodVibes</span>
+        </a>
+        <ul class="nav-links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="#recipes">Recipes</a></li>
+          <li><a href="feed.xml" target="_blank" style="display: flex; align-items: center; gap: 4px;">
+            <i data-lucide="rss" style="width: 16px; height: 16px; color: var(--primary);"></i> RSS
+          </a></li>
+          <li>
+            <button class="theme-toggle-btn" id="theme-toggle" aria-label="Toggle dark mode">
+              <i data-lucide="moon" id="theme-icon"></i>
+              <span id="theme-text">Dark Mode</span>
+            </button>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container">
+      <h1>Discover <em>Delightful</em><br>Recipes Daily</h1>
+      <p>Your ultimate destination for daily curated recipes, cooking tips, and culinary inspiration. Fresh, structured articles published every single day.</p>
+      
+      <!-- Search Bar -->
+      <div class="search-container">
+        <i data-lucide="search" class="search-icon"></i>
+        <input type="text" id="search-input" class="search-bar" placeholder="Search recipes (e.g., pasta, chocolate, healthy)..." aria-label="Search recipes">
+      </div>
+      
+      <!-- Categories -->
+      <div class="categories" id="category-container">
+        <button class="category-btn active" data-category="all">All Recipes</button>
+        <button class="category-btn" data-category="Breakfast">Breakfast</button>
+        <button class="category-btn" data-category="Lunch">Lunch</button>
+        <button class="category-btn" data-category="Dinner">Dinner</button>
+        <button class="category-btn" data-category="Dessert">Dessert</button>
+        <button class="category-btn" data-category="Snack">Snacks</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Recipes Grid Section -->
+  <main class="container recipes-section" id="recipes">
+    <div class="section-header">
+      <h2>Recent Culinary Creations</h2>
+      <p style="color: var(--text-muted); font-size: 14px;" id="recipe-count">Loading recipes...</p>
+    </div>
+
+    <!-- Ad placeholder -->
+    <div class="ad-placement">
+      <!-- Google AdSense Placeholder -->
+      <span>Advertisement</span>
+      <div style="font-size: 11px; margin-top: 4px; color: var(--text-muted);">AdSense banner will go here</div>
+    </div>
+
+    <!-- Recipes Grid -->
+    <div class="recipe-grid" id="recipe-grid">
+      <!-- Recipe Cards will be injected dynamically via app.js -->
+    </div>
+  </main>
+
+  <!-- Newsletter Section -->
+  <section class="container">
+    <div class="newsletter-section">
+      <h2>Subscribe to Newsletter</h2>
+      <p>Get daily culinary inspiration, newly generated articles, and exclusive recipe guides delivered directly to your inbox.</p>
+      <form class="newsletter-form" onsubmit="event.preventDefault(); alert('Subscribed successfully!');">
+        <input type="email" class="newsletter-input" placeholder="Enter your email address" required aria-label="Email address">
+        <button type="submit" class="newsletter-submit">Subscribe</button>
+      </form>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-about">
+          <h3 style="display: flex; align-items: center; gap: 8px;"><img src="assets/logo.jpg" alt="AkkasFoodVibes Logo" style="height: 30px; width: 30px; border-radius: 50%; object-fit: cover;"> AkkasFoodVibes</h3>
+          <p>We believe cooking should be accessible, exciting, and delicious. Powered by automated daily intelligence to keep your kitchen fresh and filled with ideas.</p>
+        </div>
+        <div class="footer-links">
+          <h4>Explore</h4>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="#recipes">Recipes</a></li>
+            <li><a href="feed.xml">RSS Feed</a></li>
+            <li><a href="sitemap.xml">Sitemap</a></li>
+          </ul>
+        </div>
+        <div class="footer-links">
+          <h4>Affiliate Links</h4>
+          <p style="font-size: 13px; color: #A39387; line-height: 1.4;">We recommend high-quality kitchen gadgets and pantry items. We may earn a small commission at no extra cost to you.</p>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 AkkasFoodVibes. All rights reserved. Generated daily with AI & Automation.</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="app.js"></script>
+  <script>
+    // Initialize Lucide Icons
+    lucide.createIcons();
+  </script>
+</body>
+</html>

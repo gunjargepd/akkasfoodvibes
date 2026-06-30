@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- SEO & Google News Meta Tags -->
+  <title>{{TITLE}} | AkkasFoodVibes</title>
+  <meta name="description" content="{{DESCRIPTION}}">
+  <meta name="keywords" content="{{KEYWORDS}}">
+  <link rel="canonical" href="https://akkasfoodvibes.github.io/{{FILE_NAME}}">
+  
+  <!-- Open Graph -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{TITLE}} | AkkasFoodVibes">
+  <meta property="og:description" content="{{DESCRIPTION}}">
+  <meta property="og:image" content="{{IMAGE_URL}}">
+  <meta property="og:url" content="https://akkasfoodvibes.github.io/{{FILE_NAME}}">
+  
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="styles.css">
+  
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  
+  <!-- Structured Data: Recipe JSON-LD for Google News & Rich Snippets -->
+  <script type="application/ld+json">
+  {{SCHEMA_JSON_LD}}
+  </script>
+</head>
+<body>
+
+  <!-- Navigation -->
+  <header>
+    <div class="container">
+      <nav>
+        <a href="index.html" class="logo" style="display: flex; align-items: center; gap: 10px;">
+          <img src="assets/logo.jpg" alt="AkkasFoodVibes Logo" style="height: 40px; width: 40px; border-radius: 50%; object-fit: cover;"> Akkas<span>FoodVibes</span>
+        </a>
+        <ul class="nav-links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="index.html#recipes">Recipes</a></li>
+          <li><a href="feed.xml" target="_blank" style="display: flex; align-items: center; gap: 4px;">
+            <i data-lucide="rss" style="width: 16px; height: 16px; color: var(--primary);"></i> RSS
+          </a></li>
+          <li>
+            <button class="theme-toggle-btn" id="theme-toggle" aria-label="Toggle dark mode">
+              <i data-lucide="moon" id="theme-icon"></i>
+              <span id="theme-text">Dark Mode</span>
+            </button>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Recipe Hero Section -->
+  <section class="container">
+    <div class="recipe-hero">
+      <div class="recipe-hero-content">
+        <span style="background-color: var(--primary-light); color: var(--primary); padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600; text-transform: uppercase;">{{CATEGORY}}</span>
+        <h1 style="margin-top: 12px;">{{TITLE}}</h1>
+        <p class="recipe-intro">{{DESCRIPTION}}</p>
+        
+        <!-- Recipe Quick Stats -->
+        <div class="recipe-quick-stats">
+          <div class="stat-item">
+            <div class="stat-label">Prep Time</div>
+            <div class="stat-value">{{PREP_TIME}} mins</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-label">Cook Time</div>
+            <div class="stat-value">{{COOK_TIME}} mins</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-label">Servings</div>
+            <div class="stat-value">{{YIELD}}</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-label">Difficulty</div>
+            <div class="stat-value">{{DIFFICULTY}}</div>
+          </div>
+        </div>
+
+        <p style="font-size: 13px; color: var(--text-muted);">Published: {{DATE}} | Written by AkkasFoodVibes Culinary AI</p>
+      </div>
+      
+      <div class="recipe-hero-img-wrapper">
+        <img src="{{IMAGE_URL}}" alt="{{TITLE}}" class="recipe-hero-img">
+      </div>
+    </div>
+  </section>
+
+  <!-- Google AdSense Top Ad -->
+  <div class="container">
+    <div class="ad-placement">
+      <span>Advertisement</span>
+      <div style="font-size: 11px; margin-top: 4px; color: var(--text-muted);">AdSense Display banner</div>
+    </div>
+  </div>
+
+  <!-- Recipe Detail Content -->
+  <main class="container recipe-main-content">
+    
+    <!-- Left Sidebar: Ingredients & Affiliates -->
+    <aside>
+      <div class="ingredients-card">
+        <h2 class="ingredients-title">Ingredients</h2>
+        <ul class="ingredient-list">
+          {{INGREDIENTS_LIST}}
+        </ul>
+
+        <!-- Affiliate Promo Box -->
+        <div class="affiliate-box">
+          <p>🍳 Need fresh ingredients or new kitchen tools?</p>
+          <p>Get top-rated kitchenware on Amazon with quick shipping!</p>
+          <a href="https://amazon.com" target="_blank" rel="nofollow noopener" class="affiliate-link">Shop Cooking Supplies on Amazon &rarr;</a>
+        </div>
+      </div>
+    </aside>
+    
+    <!-- Right Main Area: Instructions & Nutrition -->
+    <section class="recipe-details">
+      <div class="instructions-section">
+        <h2>Instructions</h2>
+        <div class="step-list">
+          {{INSTRUCTIONS_STEPS}}
+        </div>
+      </div>
+
+      <!-- Google AdSense Mid Ad -->
+      <div class="ad-placement">
+        <span>Advertisement</span>
+        <div style="font-size: 11px; margin-top: 4px; color: var(--text-muted);">AdSense Matched Content Ad</div>
+      </div>
+
+      <!-- Nutrition Info -->
+      <div class="nutrition-section">
+        <h3>Nutrition Profile</h3>
+        <p style="color: var(--text-muted); font-size: 14px; margin-bottom: 16px;">Estimated nutritional facts per serving:</p>
+        <div class="nutrition-grid">
+          <div class="nutrition-item">
+            <strong style="display: block; font-size: 18px; color: var(--primary);">{{CALORIES}}</strong>
+            <span style="font-size: 12px; color: var(--text-muted);">Calories</span>
+          </div>
+          <div class="nutrition-item">
+            <strong style="display: block; font-size: 18px; color: var(--primary);">{{FAT}}g</strong>
+            <span style="font-size: 12px; color: var(--text-muted);">Fats</span>
+          </div>
+          <div class="nutrition-item">
+            <strong style="display: block; font-size: 18px; color: var(--primary);">{{PROTEIN}}g</strong>
+            <span style="font-size: 12px; color: var(--text-muted);">Proteins</span>
+          </div>
+          <div class="nutrition-item">
+            <strong style="display: block; font-size: 18px; color: var(--primary);">{{CARBS}}g</strong>
+            <span style="font-size: 12px; color: var(--text-muted);">Carbs</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Newsletter Section -->
+  <section class="container">
+    <div class="newsletter-section">
+      <h2>Subscribe for Daily Recipes</h2>
+      <p>Subscribe to receive 5 premium recipes generated freshly everyday to help you discover new cuisines and flavors.</p>
+      <form class="newsletter-form" onsubmit="event.preventDefault(); alert('Subscribed successfully!');">
+        <input type="email" class="newsletter-input" placeholder="Enter your email address" required aria-label="Email address">
+        <button type="submit" class="newsletter-submit">Subscribe</button>
+      </form>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-about">
+          <h3 style="display: flex; align-items: center; gap: 8px;"><img src="assets/logo.jpg" alt="AkkasFoodVibes Logo" style="height: 30px; width: 30px; border-radius: 50%; object-fit: cover;"> AkkasFoodVibes</h3>
+          <p>We believe cooking should be accessible, exciting, and delicious. Powered by automated daily intelligence to keep your kitchen fresh and filled with ideas.</p>
+        </div>
+        <div class="footer-links">
+          <h4>Explore</h4>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="index.html#recipes">Recipes</a></li>
+            <li><a href="feed.xml">RSS Feed</a></li>
+            <li><a href="sitemap.xml">Sitemap</a></li>
+          </ul>
+        </div>
+        <div class="footer-links">
+          <h4>Affiliate Links</h4>
+          <p style="font-size: 13px; color: #A39387; line-height: 1.4;">We recommend high-quality kitchen gadgets and pantry items. We may earn a small commission at no extra cost to you.</p>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 AkkasFoodVibes. All rights reserved. Generated daily with AI & Automation.</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="app.js"></script>
+  <script>
+    lucide.createIcons();
+  </script>
+</body>
+</html>
