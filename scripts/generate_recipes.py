@@ -121,18 +121,16 @@ def generate_recipe_data(cuisine, category):
     
     # Run Gemini API Call
     model = genai.GenerativeModel("gemini-2.5-flash")
-    response = model.generate_content(
-        prompt,
-        generation_config={"response_mime_type": "application/json"}
-    )
-    
     try:
+        response = model.generate_content(
+            prompt,
+            generation_config={"response_mime_type": "application/json"}
+        )
         data = json.loads(response.text)
         data["cuisine"] = cuisine
         return data
     except Exception as e:
-        print(f"Error parsing Gemini JSON output: {e}")
-        print(f"Raw Output: {response.text}")
+        print(f"Gemini API Error (likely Quota Exceeded): {e}")
         return None
 
 def build_feed_xml(recipes):
