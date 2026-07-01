@@ -231,23 +231,26 @@ def main():
 
     today_str = datetime.today().strftime("%Y-%m-%d")
     
-    # Pick 5 unique combinations of cuisines and categories
+    # Pick 1 unique combination of cuisine and category
     selected_combos = []
-    while len(selected_combos) < 5:
+    while len(selected_combos) < 1:
         cui = random.choice(CUISINES)
         cat = random.choice(CATEGORIES)
         combo = (cui, cat)
         if combo not in selected_combos:
             selected_combos.append(combo)
             
-    print(f"Generating 5 new recipes for {today_str}...")
+    print(f"Generating 1 new recipe for {today_str}...")
     new_recipes = []
+    
+    # Ensure recipes output folder exists
+    os.makedirs(os.path.join(root_dir, "recipes"), exist_ok=True)
     
     for idx, (cuisine, category) in enumerate(selected_combos, 1):
         if idx > 1:
             print("Waiting 15 seconds to avoid API rate limits...")
             time.sleep(15)
-        print(f"Recipe {idx}/5: Generating {cuisine} {category}...")
+        print(f"Recipe {idx}/1: Generating {cuisine} {category}...")
         recipe_data = generate_recipe_data(cuisine, category)
         
         if not recipe_data:
@@ -256,7 +259,7 @@ def main():
             
         # Complete recipe properties
         recipe_id = f"{today_str}-{idx}"
-        filename = sanitize_filename(recipe_data["title"])
+        filename = "recipes/" + sanitize_filename(recipe_data["title"])
         
         # Select image
         images = CATEGORY_IMAGES.get(category, [DEFAULT_IMAGE])
