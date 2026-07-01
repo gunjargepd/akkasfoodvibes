@@ -1,5 +1,54 @@
 [
   {
+    "title": "Aromatic South Indian Filter Coffee",
+    "description": "Experience the rich, bold, and traditional taste of chicory-blended filter coffee, brewed in a classic metal dripper. Known for its distinct aroma and frothy texture, it’s a staple morning beverage in South Indian households. / चिकोरी मिश्रित फिल्टर कॉफी के समृद्ध, तीव्र और पारंपरिक स्वाद का अनुभव करें, जिसे एक क्लासिक धातु के ड्रिपर में बनाया जाता है। अपनी विशेष सुगंध और झागदार बनावट के लिए जानी जाने वाली यह दक्षिण भारतीय घरों में सुबह का एक मुख्य पेय है।",
+    "prepTime": 5,
+    "cookTime": 15,
+    "yield": "2 servings",
+    "difficulty": "Easy",
+    "category": "Beverage",
+    "keywords": "Filter Coffee Recipe, South Indian Coffee, Chicory Coffee, Indian Beverage, Coffee Maker, Traditional Coffee, Kaapi",
+    "ingredients": [
+      "3 tbsp traditional South Indian filter coffee powder (70-80% coffee, 20-30% chicory blend) / ३ बड़े चम्मच पारंपरिक साउथ इंडियन फिल्टर कॉफी पाउडर (७०-८०% कॉफी, २०-३०% चिकोरी मिश्रण)",
+      "1 cup boiling water / १ कप उबलता हुआ पानी",
+      "1.5 cups full-fat milk / १.५ कप फुल फैट दूध",
+      "2-3 tsp sugar, or to taste / २-३ छोटे चम्मच चीनी, या स्वादानुसार"
+    ],
+    "instructions": [
+      {
+        "title": "Prepare the Filter",
+        "text": "Place the coffee powder in the top chamber of the filter. Gently press it down with the plunger (the perforated disc), but do not pack it too tightly. / फिल्टर के ऊपरी हिस्से में कॉफी पाउडर डालें। इसे प्लंजर (छेद वाली डिस्क) से हल्के हाथ से दबाएं, लेकिन बहुत कसकर न पैक करें।"
+      },
+      {
+        "title": "Brew the Decoction",
+        "text": "Slowly pour the boiling water over the pressed coffee powder. Close the lid and let the decoction drip into the bottom chamber. This process usually takes 10-15 minutes, yielding a strong, dark concentrate. / दबे हुए कॉफी पाउडर के ऊपर धीरे-धीरे उबलता हुआ पानी डालें। ढक्कन बंद करें और डिकॉक्शन को निचले हिस्से में टपकने दें। इस प्रक्रिया में आमतौर पर १०-१५ मिनट लगते हैं, जिससे एक गाढ़ा, गहरा अर्क (काढ़ा) प्राप्त होता है।"
+      },
+      {
+        "title": "Heat the Milk",
+        "text": "In a separate saucepan, heat the milk until it is steaming hot and just begins to froth. Do not let it boil over. / एक अलग सॉसपैन में, दूध को तब तक गरम करें जब तक वह भाप देने लगे और उसमें झाग बनने लगे। इसे उबलने न दें।"
+      },
+      {
+        "title": "Mix and Froth (The 'Meter' Technique)",
+        "text": "In a traditional South Indian coffee dabarah and tumbler set (or two similar cups), add 2-3 tablespoons of the strong coffee decoction and sugar to taste. Pour in the hot milk. Now, vigorously pour the coffee back and forth between the two vessels from a height to create a thick, airy froth. / एक पारंपरिक साउथ इंडियन कॉफी डबरा और टम्बलर सेट (या दो समान कप) में, २-३ बड़े चम्मच गाढ़ा कॉफी डिकॉक्शन और स्वादानुसार चीनी डालें। गर्म दूध डालें। अब, एक ऊंचाई से दोनों बर्तनों के बीच कॉफी को तेजी से ऊपर-नीचे करके एक गाढ़ा, हवादार झाग बनाएं।"
+      },
+      {
+        "title": "Serve",
+        "text": "Serve immediately in the dabarah and tumbler, ensuring a good layer of froth on top. Enjoy your authentic Aromatic South Indian Filter Coffee! / तुरंत डबरा और टम्बलर में परोसें, यह सुनिश्चित करते हुए कि ऊपर झाग की एक अच्छी परत हो। अपनी प्रामाणिक सुगंधित साउथ इंडियन फिल्टर कॉफी का आनंद लें!"
+      }
+    ],
+    "nutrition": {
+      "calories": 90,
+      "fat": 4,
+      "protein": 5,
+      "carbs": 10
+    },
+    "cuisine": "South Indian Style",
+    "id": "2026-07-01-coffee",
+    "fileName": "recipes/aromatic-south-indian-filter-coffee.html",
+    "imageUrl": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
+    "date": "2026-07-01"
+  },
+  {
     "title": "Gulab Nariyal Vadi: A Mumbai Sweet Roll",
     "description": "Experience a unique dessert interpretation inspired by Mumbai's iconic Aluchi Vadi, reimagined as a luxurious sweet treat. These delicate rolls feature a fragrant gram flour (besan) outer layer, generously filled with a rich blend of fresh grated coconut, jaggery, aromatic cardamom, and a hint of rose, steamed to perfection, and then lightly pan-fried in ghee to achieve a delightful texture. A truly special Maharashtrian dessert that promises an unforgettable taste. / मुंबई की प्रसिद्ध आलू वड़ी से प्रेरित एक अनोखी मिठाई का अनुभव करें, जिसे एक शानदार मीठे पकवान के रूप में फिर से तैयार किया गया है। ये नाजुक रोल एक सुगंधित बेसन की परत से बने होते हैं, जिसमें ताजा कद्दूकस किया हुआ नारियल, गुड़, सुगंधित इलायची और गुलाब जल का समृद्ध मिश्रण भरा जाता है। इन्हें पूर्णता तक भाप में पकाया जाता है और फिर एक सुखद बनावट प्राप्त करने के लिए घी में हल्का तला जाता है। एक सचमुच विशेष महाराष्ट्रीयन मिठाई जो एक अविस्मरणीय स्वाद का वादा करती है।",
     "prepTime": 25,
