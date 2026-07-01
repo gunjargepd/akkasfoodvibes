@@ -3,6 +3,7 @@ import sys
 import json
 import random
 import re
+import time
 from datetime import datetime
 import google.generativeai as genai
 
@@ -243,6 +244,9 @@ def main():
     new_recipes = []
     
     for idx, (cuisine, category) in enumerate(selected_combos, 1):
+        if idx > 1:
+            print("Waiting 15 seconds to avoid API rate limits...")
+            time.sleep(15)
         print(f"Recipe {idx}/5: Generating {cuisine} {category}...")
         recipe_data = generate_recipe_data(cuisine, category)
         

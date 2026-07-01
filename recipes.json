@@ -1,5 +1,425 @@
 [
   {
+    "title": "Gulab Nariyal Vadi: A Mumbai Sweet Roll",
+    "description": "Experience a unique dessert interpretation inspired by Mumbai's iconic Aluchi Vadi, reimagined as a luxurious sweet treat. These delicate rolls feature a fragrant gram flour (besan) outer layer, generously filled with a rich blend of fresh grated coconut, jaggery, aromatic cardamom, and a hint of rose, steamed to perfection, and then lightly pan-fried in ghee to achieve a delightful texture. A truly special Maharashtrian dessert that promises an unforgettable taste. / मुंबई की प्रसिद्ध आलू वड़ी से प्रेरित एक अनोखी मिठाई का अनुभव करें, जिसे एक शानदार मीठे पकवान के रूप में फिर से तैयार किया गया है। ये नाजुक रोल एक सुगंधित बेसन की परत से बने होते हैं, जिसमें ताजा कद्दूकस किया हुआ नारियल, गुड़, सुगंधित इलायची और गुलाब जल का समृद्ध मिश्रण भरा जाता है। इन्हें पूर्णता तक भाप में पकाया जाता है और फिर एक सुखद बनावट प्राप्त करने के लिए घी में हल्का तला जाता है। एक सचमुच विशेष महाराष्ट्रीयन मिठाई जो एक अविस्मरणीय स्वाद का वादा करती है।",
+    "prepTime": 25,
+    "cookTime": 35,
+    "yield": "8-10 Vadis (4 servings)",
+    "difficulty": "Medium",
+    "category": "Dessert",
+    "keywords": "Maharashtrian dessert, Mumbai special, sweet vadi, gulab nariyal, coconut jaggery roll, besan sweet, Indian dessert, festive sweet, rose coconut, traditional Indian sweets",
+    "ingredients": [
+      "1 cup gram flour / १ कप बेसन",
+      "1/4 cup powdered sugar / १/४ कप पिसी हुई चीनी",
+      "1/2 tsp cardamom powder / १/२ छोटा चम्मच इलायची पाउडर",
+      "A pinch of saffron strands (soaked in 1 tbsp warm milk) / एक चुटकी केसर के धागे (१ बड़ा चम्मच गर्म दूध में भिगोए हुए)",
+      "1/2 cup milk / १/२ कप दूध",
+      "1/4 cup water (or as needed) / १/४ कप पानी (या आवश्यकतानुसार)",
+      "1 tbsp ghee (for batter and greasing) / १ बड़ा चम्मच घी (घोल और चिकना करने के लिए)",
+      "A pinch of salt / एक चुटकी नमक",
+      "1.5 cups fresh grated coconut / १.५ कप ताजा कद्दूकस किया हुआ नारियल",
+      "3/4 cup jaggery (grated or finely chopped) / ३/४ कप गुड़ (कद्दूकस किया हुआ या बारीक कटा हुआ)",
+      "1/2 tsp cardamom powder (for filling) / १/२ छोटा चम्मच इलायची पाउडर (भरावन के लिए)",
+      "1 tbsp rose water / १ बड़ा चम्मच गुलाब जल",
+      "2 tbsp chopped mixed nuts (cashews, almonds) / २ बड़े चम्मच कटे हुए मेवे (काजू, बादाम)",
+      "3 tbsp ghee (for pan-frying) / ३ बड़े चम्मच घी (पैन-फ्राई करने के लिए)",
+      "1/4 tsp saffron strands (for tempering/garnish) / १/४ छोटा चम्मच केसर के धागे (तड़के/सजावट के लिए)",
+      "2 tbsp finely chopped pistachios (for garnish) / २ बड़े चम्मच बारीक कटे हुए पिस्ता (सजाने के लिए)",
+      "Edible rose petals (for garnish, optional) / खाने योग्य गुलाब की पंखुड़ियाँ (सजावट के लिए, वैकल्पिक)"
+    ],
+    "instructions": [
+      {
+        "title": "Prepare the Sweet Besan Batter",
+        "text": "In a mixing bowl, combine gram flour, powdered sugar, cardamom powder, and a pinch of salt. Gradually add milk and water, whisking continuously to form a smooth, lump-free batter of pouring consistency. Stir in the saffron-soaked milk and 1 tbsp ghee. Let it rest for 10 minutes. / एक मिश्रण के कटोरे में, बेसन, पिसी हुई चीनी, इलायची पाउडर और एक चुटकी नमक मिलाएं। धीरे-धीरे दूध और पानी डालते हुए लगातार फेंटते रहें ताकि एक चिकना, गांठ रहित घोल बन जाए। केसर भिगोया हुआ दूध और १ बड़ा चम्मच घी डालकर मिलाएं। इसे १० मिनट के लिए रख दें।"
+      },
+      {
+        "title": "Cook the Coconut & Jaggery Filling",
+        "text": "In a non-stick pan, combine fresh grated coconut and grated jaggery. Cook on medium-low heat, stirring continuously, until the jaggery melts and the mixture thickens, leaving the sides of the pan (about 8-10 minutes). Remove from heat, add cardamom powder, rose water, and chopped nuts. Mix well and let it cool completely. / एक नॉन-स्टिक पैन में, ताजा कद्दूकस किया हुआ नारियल और कद्दूकस किया हुआ गुड़ मिलाएं। मध्यम-धीमी आंच पर लगातार चलाते हुए पकाएं, जब तक कि गुड़ पिघल न जाए और मिश्रण गाढ़ा होकर पैन के किनारों को न छोड़ने लगे (लगभग ८-१० मिनट)। आंच से उतार लें, इलायची पाउडर, गुलाब जल और कटे हुए मेवे डालें। अच्छी तरह मिलाएं और इसे पूरी तरह से ठंडा होने दें।"
+      },
+      {
+        "title": "Steam the Besan Sheets",
+        "text": "Lightly grease a large flat plate or a thali (with raised edges) with ghee. Pour a thin, even layer of the prepared besan batter onto it, about 1/8 inch thick. Steam this layer in a steamer for 7-10 minutes, or until it sets and becomes firm to the touch. It should be cooked through but still pliable. Carefully remove and let it cool slightly. Repeat this process to make 2-3 such sheets, depending on the size of your plate. / एक बड़ी समतल प्लेट या थाली (किनारों वाली) को घी से हल्का चिकना कर लें। तैयार बेसन के घोल की एक पतली, समान परत उस पर डालें, लगभग १/८ इंच मोटी। इस परत को एक स्टीमर में ७-१० मिनट के लिए भाप में पकाएं, या जब तक यह सेट न हो जाए और छूने पर सख्त न हो जाए। यह पूरी तरह से पक जाना चाहिए लेकिन अभी भी लचीला होना चाहिए। सावधानी से निकालें और थोड़ा ठंडा होने दें। अपनी प्लेट के आकार के आधार पर, ऐसी २-३ शीट बनाने के लिए इस प्रक्रिया को दोहराएं।"
+      },
+      {
+        "title": "Form the Sweet Rolls",
+        "text": "Lay one steamed besan sheet (or sheets, carefully joining them to form a larger rectangle) on a clean, greased surface. Spread the cooled coconut-jaggery filling evenly over the entire surface, leaving a small border (about 1 inch) on one long edge. Gently and tightly roll the sheet from the filled long edge towards the empty border to form a firm log. Repeat for any remaining sheets and filling. / भाप में पकी हुई बेसन की एक शीट (या शीट्स, उन्हें सावधानी से जोड़कर एक बड़ा आयत बनाने के लिए) को एक साफ, चिकनी सतह पर रखें। ठंडा किया हुआ नारियल-गुड़ का भरावन पूरी सतह पर समान रूप से फैलाएं, एक लंबी किनारे पर थोड़ा सा किनारा (लगभग १ इंच) छोड़ दें। भरी हुई लंबी किनारे से खाली किनारे की ओर शीट को धीरे-धीरे और कसकर रोल करें ताकि एक ठोस लॉग बन जाए। बची हुई शीट्स और भरावन के लिए भी यही दोहराएं।"
+      },
+      {
+        "title": "Slice and Pan-Fry the Vadis",
+        "text": "Once the rolls are firm and slightly cooled, carefully slice them into 1/2 to 3/4-inch thick vadis using a sharp, greased knife. In a flat pan or tawa, heat 3 tbsp ghee over medium heat. Add saffron strands. Gently place the sliced vadis and shallow-fry them for 2-3 minutes on each side until they turn light golden brown and slightly crispy. / जब रोल सख्त और थोड़े ठंडे हो जाएं, तो एक तेज, चिकने चाकू का उपयोग करके उन्हें १/२ से ३/४ इंच मोटी वड़ियों में सावधानी से काट लें। एक सपाट पैन या तवे पर, मध्यम आंच पर ३ बड़े चम्मच घी गरम करें। केसर के धागे डालें। धीरे से कटी हुई वड़ियों को रखें और प्रत्येक तरफ २-३ मिनट के लिए हल्का सुनहरा भूरा और थोड़ा कुरकुरा होने तक शैलो-फ्राई करें।"
+      },
+      {
+        "title": "Garnish and Serve",
+        "text": "Arrange the 'Gulab Nariyal Vadis' on a serving platter. Garnish with finely chopped pistachios and edible rose petals (if using). Serve warm or at room temperature as a delectable Mumbai-special dessert. / 'गुलाब नारियल वड़ी' को एक सर्विंग प्लेट में व्यवस्थित करें। बारीक कटे हुए पिस्ता और खाने योग्य गुलाब की पंखुड़ियों (यदि उपयोग कर रहे हैं) से सजाएं। मुंबई-स्पेशल मिठाई के रूप में गर्म या कमरे के तापमान पर परोसें।"
+      }
+    ],
+    "nutrition": {
+      "calories": 380,
+      "fat": 18,
+      "protein": 9,
+      "carbs": 48
+    },
+    "cuisine": "Mumbai Special",
+    "id": "2026-07-01-1",
+    "fileName": "gulab-nariyal-vadi-a-mumbai-sweet-roll.html",
+    "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=80",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Vidarbha's Fiery Taro Leaf Rolls: A Spiced Breakfast Delicacy",
+    "description": "Experience the vibrant and bold flavors of Vidarbha with these unique Spiced Taro Leaf Rolls, a fiery twist on the traditional Aluchi Vadi. Perfectly steamed and then pan-fried to a golden crisp, these savory bites are an invigorating breakfast or a delightful tea-time snack, bursting with the authentic spice blend of the region and balanced with a hint of tang and sweetness, often served with a tangy peanut chutney. / विदर्भ के जीवंत और तीखे स्वाद का अनुभव करें इन अनोखे मसालेदार अरबी पत्ता रोल्स के साथ, जो पारंपरिक अलु वड़ी का एक चटपटा रूप है। इन्हें भाप में पकाकर फिर सुनहरा कुरकुरा होने तक तवा-फ्राई किया जाता है। ये स्वादिष्ट बाइट्स एक स्फूर्तिदायक नाश्ता या आनंददायक चाय-समय का नाश्ता हैं, जो क्षेत्र के प्रामाणिक मसाले मिश्रण से भरपूर हैं और खटास और मिठास के संकेत के साथ संतुलित हैं, अक्सर इन्हें खट्टी मूंगफली की चटनी के साथ परोसा जाता है।",
+    "prepTime": 35,
+    "cookTime": 30,
+    "yield": "4 servings",
+    "difficulty": "Medium",
+    "category": "Breakfast",
+    "keywords": "Vidarbha, Aluchi Vadi, Taro Leaf Rolls, Spicy, Maharashtrian Breakfast, Indian Breakfast, Colocasia, Varhadi, Savory Snack, Vegan, Gluten-Free Option",
+    "ingredients": [
+      "10-12 medium-sized Colocasia (Taro) leaves / १०-१२ मध्यम आकार के अरबी के पत्ते (अलू के पत्ते)",
+      "1 cup Besan (Gram flour) / १ कप बेसन (चना दाल का आटा)",
+      "2 tbsp Ginger-Garlic-Green Chili Paste / २ बड़े चम्मच अदरक-लहसुन-हरी मिर्च का पेस्ट",
+      "3 tbsp Tamarind pulp (thick) / ३ बड़े चम्मच इमली का गूदा (गाढ़ा)",
+      "2 tbsp Jaggery (grated or powdered) / २ बड़े चम्मच गुड़ (कद्दूकस किया हुआ या पाउडर)",
+      "1.5 tbsp Vidarbha Special Red Chili Powder (or as per taste) / १.५ बड़ा चम्मच विदर्भ स्पेशल लाल मिर्च पाउडर (या स्वादानुसार)",
+      "1/2 tsp Turmeric powder / १/२ छोटा चम्मच हल्दी पाउडर",
+      "1 tsp Cumin powder / १ छोटा चम्मच जीरा पाउडर",
+      "1.5 tsp Coriander powder / १.५ छोटा चम्मच धनिया पाउडर",
+      "1/2 tsp Garam Masala / १/२ छोटा चम्मच गरम मसाला",
+      "2 tbsp Roasted Groundnut Powder (coarsely ground) / २ बड़े चम्मच भुनी हुई मूंगफली का पाउडर (मोटा पिसा हुआ)",
+      "1 tbsp White Sesame Seeds / १ बड़ा चम्मच सफेद तिल",
+      "1/2 tsp Carom Seeds (Ajwain) / १/२ छोटा चम्मच अजवाइन",
+      "1/4 tsp Asafoetida (Hing) / १/४ छोटा चम्मच हींग",
+      "3-4 tbsp Oil (2 tbsp for paste, rest for frying) / ३-४ बड़े चम्मच तेल (२ बड़े चम्मच पेस्ट के लिए, बाकी तलने के लिए)",
+      "Salt to taste / स्वादानुसार नमक",
+      "For Tempering (Optional, for frying): 1 tsp Mustard Seeds / १ छोटा चम्मच राई, 5-6 Curry Leaves / ५-६ कढ़ी पत्ते"
+    ],
+    "instructions": [
+      {
+        "title": "Prepare the Colocasia Leaves",
+        "text": "Carefully wash the Colocasia (Alu) leaves under running water. Pat them dry completely. Using a sharp knife, gently remove the thick veins from the back of each leaf, taking care not to tear the leaf. This step is crucial to reduce any itchiness. / अरबी (अलू) के पत्तों को बहते पानी के नीचे सावधानी से धो लें। उन्हें पूरी तरह से पोंछकर सुखा लें। एक तेज चाकू का उपयोग करके, प्रत्येक पत्ते के पीछे से मोटी शिराओं को धीरे से हटा दें, ध्यान रहे कि पत्ता फटे नहीं। यह कदम खुजली को कम करने के लिए महत्वपूर्ण है।"
+      },
+      {
+        "title": "Prepare the Vidarbha Spicy Paste",
+        "text": "In a large bowl, combine the besan, ginger-garlic-green chili paste, tamarind pulp, grated jaggery, Vidarbha Special Red Chili Powder, turmeric powder, cumin powder, coriander powder, garam masala, roasted groundnut powder, white sesame seeds, carom seeds, asafoetida, 2 tbsp oil, and salt to taste. Add water gradually (approx. 1/4 to 1/2 cup), mixing well to form a thick, smooth, and spreadable paste. Ensure there are no lumps. / एक बड़े कटोरे में, बेसन, अदरक-लहसुन-हरी मिर्च का पेस्ट, इमली का गूदा, कसा हुआ गुड़, विदर्भ स्पेशल लाल मिर्च पाउडर, हल्दी पाउडर, जीरा पाउडर, धनिया पाउडर, गरम मसाला, भुनी हुई मूंगफली का पाउडर, सफेद तिल, अजवाइन, हींग, २ बड़े चम्मच तेल और स्वादानुसार नमक मिलाएं। धीरे-धीरे पानी डालते हुए (लगभग १/४ से १/२ कप) अच्छी तरह मिलाएं ताकि एक गाढ़ा, चिकना और फैलाने योग्य पेस्ट बन जाए। सुनिश्चित करें कि कोई गांठ न रहे।"
+      },
+      {
+        "title": "Assemble the Taro Leaf Rolls",
+        "text": "Lay a large colocasia leaf flat on a clean surface with the darker, shiny side facing down. Spread a thin, even layer of the prepared besan paste over the entire surface of the leaf. Place a slightly smaller leaf on top of the first, with its tip facing the opposite direction, and spread another layer of paste. Repeat with 2-3 more leaves, decreasing in size. Fold in the sides of the layered leaves (about 1-2 inches inward), then carefully roll the leaves tightly from the tip to the base to form a firm cylindrical roll. Repeat for all remaining leaves to make 2-3 rolls. / एक बड़ी अरबी के पत्ते को एक साफ सतह पर चिकनी और गहरी हरी तरफ नीचे की ओर रखें। तैयार बेसन के पेस्ट की एक पतली, समान परत पूरे पत्ते की सतह पर फैलाएं। पहले पत्ते के ऊपर थोड़ा छोटा पत्ता रखें, जिसकी नोक विपरीत दिशा में हो, और पेस्ट की एक और परत फैलाएं। २-३ और पत्तों के साथ दोहराएं, आकार में घटते हुए। परतों वाले पत्तों के किनारों को अंदर की ओर मोड़ें (लगभग १-२ इंच), फिर पत्तों को सावधानी से नोक से आधार तक कसकर रोल करें ताकि एक मजबूत बेलनाकार रोल बन जाए। शेष सभी पत्तों के लिए दोहराएं ताकि २-३ रोल बन सकें।"
+      },
+      {
+        "title": "Steam the Rolls",
+        "text": "Heat water in a steamer or a large pot with a steamer insert. Place the prepared rolls on a greased steamer plate. Steam for 15-20 minutes on medium heat, or until a knife inserted comes out clean and the rolls look firm and cooked. / एक स्टीमर या एक बड़े बर्तन में पानी गरम करें जिसमें स्टीमर जाली हो। तैयार रोल्स को चिकनी स्टीमर प्लेट पर रखें। मध्यम आंच पर १५-२० मिनट तक भाप में पकाएं, या जब तक चाकू डालने पर साफ न निकले और रोल्स दृढ़ और पके हुए न दिखें।"
+      },
+      {
+        "title": "Cool and Slice",
+        "text": "Carefully remove the steamed rolls from the steamer and let them cool down completely. This step is crucial for easy and clean slicing. Once cooled, slice each roll into 1/2 to 3/4 inch thick vadis. / भाप में पके हुए रोल्स को सावधानी से स्टीमर से निकालें और उन्हें पूरी तरह से ठंडा होने दें। यह कदम आसान और साफ कटाई के लिए महत्वपूर्ण है। एक बार ठंडा होने पर, प्रत्येक रोल को १/२ से ३/४ इंच मोटी वड़ी में काट लें।"
+      },
+      {
+        "title": "Pan-Fry to Perfection",
+        "text": "Heat 2-3 tbsp oil in a non-stick pan or tawa over medium heat. If adding tempering, add mustard seeds and let them splutter, then add curry leaves. Place the sliced vadis in a single layer and pan-fry them until they are golden brown and crisp on both sides. You may need to do this in batches to avoid overcrowding the pan. / एक नॉन-स्टिक पैन या तवे पर मध्यम आंच पर २-३ बड़े चम्मच तेल गरम करें। यदि तड़का डाल रहे हैं, तो राई डालें और उन्हें तड़कने दें, फिर कढ़ी पत्ते डालें। कटी हुई वड़ियों को एक परत में रखें और दोनों तरफ से सुनहरा भूरा और कुरकुरा होने तक तवा-फ्राई करें। पैन को अधिक न भरने के लिए आपको यह कई बार में करना पड़ सकता है।"
+      },
+      {
+        "title": "Serve Hot",
+        "text": "Serve the hot and crispy Vidarbha's Fiery Taro Leaf Rolls immediately with your favorite tangy peanut chutney, green chutney, or a cup of hot Maharashtrian tea for a perfect breakfast or snack. / गर्म और कुरकुरी विदर्भ की मसालेदार अरबी पत्ता रोल्स को तुरंत अपनी पसंदीदा खट्टी मूंगफली की चटनी, हरी चटनी, या एक कप गर्म महाराष्ट्रीयन चाय के साथ परोसें एक उत्तम नाश्ते या स्नैक के लिए।"
+      }
+    ],
+    "nutrition": {
+      "calories": 350,
+      "fat": 12,
+      "protein": 8,
+      "carbs": 45
+    },
+    "cuisine": "Vidarbha Spicy Special",
+    "id": "2026-07-01-2",
+    "fileName": "vidarbhas-fiery-taro-leaf-rolls-a-spiced-breakfast-delicacy.html",
+    "imageUrl": "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?auto=format&fit=crop&w=800&q=80",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Konkani Gul Poli: Golden Lentil Sweetbread",
+    "description": "Experience the rich heritage of Maharashtrian cuisine with this Konkani-style Gul Poli, a delightful sweet flatbread perfect for a satisfying lunch. Infused with aromatic cardamom and dark jaggery, its soulful lentil filling wrapped in a tender, golden crust offers a unique blend of sweetness and warmth, reminiscent of coastal traditions. / महाराष्ट्रीयन व्यंजनों की समृद्ध विरासत का अनुभव करें इस कोंकणी शैली की गुल पोली के साथ, एक स्वादिष्ट मीठी रोटी जो दोपहर के भोजन के लिए एकदम सही है। सुगंधित इलायची और गुड़ से भरपूर, इसकी आत्मा को तृप्त करने वाली दाल की भरावन एक नरम, सुनहरी परत में लिपटी हुई, तटीय परंपराओं की मिठास और गर्माहट का एक अनूठा मिश्रण प्रस्तुत करती है।",
+    "prepTime": 30,
+    "cookTime": 60,
+    "yield": "4-6 servings",
+    "difficulty": "Medium",
+    "category": "Lunch",
+    "keywords": "Puran Poli, Gul Poli, Maharashtrian Recipe, Konkani Cuisine, Indian Sweet Flatbread, Lentil Dessert, Jaggery Flatbread, Cardamom, Traditional Indian Food, Vegetarian Lunch",
+    "ingredients": [
+      "1 cup Chana Dal (Split Bengal Gram) / १ कप चना दाल (चना दाल)",
+      "1.5 cups Jaggery (dark, grated) / १.५ कप गुड़ (गहरा रंग, कसा हुआ)",
+      "1/2 tsp Cardamom Powder / १/२ छोटा चम्मच इलायची पाउडर",
+      "1/4 tsp Nutmeg Powder / १/४ छोटा चम्मच जायफल पाउडर",
+      "1/4 tsp Dry Ginger Powder (Soonth) / १/४ छोटा चम्मच सोंठ (सूखी अदरक पाउडर)",
+      "Pinch of Saffron strands (optional) / चुटकी भर केसर के धागे (वैकल्पिक)",
+      "2 tbsp Ghee (Clarified Butter) / २ बड़ा चम्मच घी",
+      "Water for cooking dal / दाल उबालने के लिए पानी",
+      "1.5 cups All-purpose Flour (Maida) / १.५ कप मैदा",
+      "1/2 cup Whole Wheat Flour (Atta) / १/२ कप गेहूं का आटा",
+      "1/2 tsp Salt / १/२ छोटा चम्मच नमक",
+      "1/4 cup Oil (or Ghee), plus more for kneading / १/४ कप तेल (या घी), और गूथने के लिए अतिरिक्त",
+      "Water for kneading / आटा गूथने के लिए पानी",
+      "Ghee (Clarified Butter), as needed for roasting / घी (आवश्यकतानुसार सेकने के लिए)"
+    ],
+    "instructions": [
+      {
+        "title": "Prepare the Chana Dal",
+        "text": "Wash the chana dal thoroughly and soak it in water for at least 2 hours, or preferably overnight. Drain the water before cooking. / चना दाल को अच्छी तरह धो लें और कम से कम २ घंटे या रात भर के लिए पानी में भिगो दें। पकाने से पहले पानी निकाल दें।"
+      },
+      {
+        "title": "Cook the Dal for Puran",
+        "text": "In a pressure cooker, add the soaked chana dal with 2.5-3 cups of fresh water. Cook for 4-5 whistles on medium flame until the dal is soft but not mushy. Drain the excess water (reserve it for Katachi Amti if desired). / एक प्रेशर कुकर में, भिगोई हुई चना दाल को २.५-३ कप ताजे पानी के साथ डालें। मध्यम आंच पर ४-५ सीटी आने तक पकाएं जब तक दाल नरम न हो जाए, लेकिन बहुत ज़्यादा गली हुई न हो। अतिरिक्त पानी निकाल दें (यदि चाहें तो कटाची आमटी के लिए इसे सुरक्षित रखें)।"
+      },
+      {
+        "title": "Prepare the Puran (Filling)",
+        "text": "In a thick-bottomed pan, add the cooked and drained dal, grated jaggery, cardamom powder, nutmeg powder, and dry ginger powder. Cook on medium-low heat, stirring continuously. The jaggery will melt and then the mixture will start to thicken. Continue cooking until the mixture leaves the sides of the pan and becomes a thick, homogeneous mass (about 15-20 minutes). Stir in 2 tbsp ghee and saffron strands (if using). Let it cool slightly. / एक मोटे तले वाले पैन में, पकी हुई और छनी हुई दाल, कसा हुआ गुड़, इलायची पाउडर, जायफल पाउडर और सोंठ पाउडर डालें। मध्यम-धीमी आंच पर लगातार चलाते हुए पकाएं। गुड़ पिघल जाएगा और फिर मिश्रण गाढ़ा होना शुरू हो जाएगा। तब तक पकाएं जब तक मिश्रण पैन के किनारों को न छोड़ने लगे और एक गाढ़ा, समरूप मिश्रण न बन जाए (लगभग १५-२० मिनट)। २ बड़े चम्मच घी और केसर के धागे (यदि उपयोग कर रहे हैं) मिलाएं। इसे थोड़ा ठंडा होने दें।"
+      },
+      {
+        "title": "Grind the Puran",
+        "text": "Once slightly cooled, pass the puran mixture through a Puran Yantra (or a fine-mesh sieve/food processor) to get a smooth, lump-free filling. Divide the puran into equal-sized balls (about golf-ball size). / थोड़ा ठंडा होने के बाद, पूरन मिश्रण को पूरन यंत्र (या बारीक छलनी/फूड प्रोसेसर) से गुजारें ताकि एक चिकना, गांठ रहित भरावन मिल सके। पूरन को बराबर आकार की गोलियों में बांट लें (लगभग गोल्फ-बॉल के आकार की)।"
+      },
+      {
+        "title": "Prepare the Poli Dough",
+        "text": "In a large bowl, combine maida, whole wheat flour, and salt. Gradually add water and 1/4 cup oil, kneading into a very soft, pliable dough. The dough should be softer than regular chapati dough. Continue to knead for 8-10 minutes, adding more oil as needed, until it's smooth and elastic. Cover with a damp cloth and let it rest for at least 30 minutes. / एक बड़े कटोरे में, मैदा, गेहूं का आटा और नमक मिलाएं। धीरे-धीरे पानी और १/४ कप तेल डालते हुए, बहुत नरम, लचीला आटा गूंथ लें। आटा सामान्य चपाती के आटे से नरम होना चाहिए। ८-१० मिनट तक गूंथना जारी रखें, आवश्यकतानुसार और तेल डालते रहें, जब तक यह चिकना और लोचदार न हो जाए। इसे एक नम कपड़े से ढककर कम से कम ३० मिनट के लिए आराम करने दें।"
+      },
+      {
+        "title": "Assemble the Poli",
+        "text": "Take a small portion of the dough (slightly larger than the puran ball) and flatten it into a small disc using your fingers. Place a puran ball in the center. Gently bring the edges of the dough together to enclose the puran, sealing it completely. / आटे का एक छोटा हिस्सा लें (पूरन की गोली से थोड़ा बड़ा) और इसे अपनी उंगलियों से एक छोटी डिस्क में चपटा करें। बीच में एक पूरन की गोली रखें। आटे के किनारों को धीरे-धीरे एक साथ लाकर पूरन को पूरी तरह से बंद कर दें।"
+      },
+      {
+        "title": "Roll the Puran Poli",
+        "text": "Dust your work surface lightly with flour. Gently roll out the stuffed dough ball into a thin, round poli (about 6-8 inches in diameter) using a rolling pin. Be gentle to prevent the puran from tearing through the dough. / अपनी काम करने की सतह को थोड़े से आटे से हल्का सा डस्ट करें। भरे हुए आटे की गोली को धीरे-धीरे एक पतली, गोल पोली (लगभग ६-८ इंच व्यास की) बेलन से बेल लें। पूरन को आटे से फटने से बचाने के लिए कोमल रहें।"
+      },
+      {
+        "title": "Roast the Puran Poli",
+        "text": "Heat a tawa (griddle) on medium heat. Carefully place the rolled poli onto the hot tawa. Cook for about 1-2 minutes until small bubbles appear. Flip it over, apply ghee on the cooked side, and cook for another minute. Flip again, apply ghee on the other side, and press gently with a spatula. Cook until both sides are golden brown with light spots and the poli puffs up slightly. / एक तवे को मध्यम आंच पर गरम करें। सावधानी से बेली हुई पोली को गरम तवे पर रखें। लगभग १-२ मिनट तक पकाएं जब तक छोटे बुलबुले न दिखाई दें। इसे पलट दें, पकी हुई तरफ घी लगाएं, और एक और मिनट के लिए पकाएं। फिर से पलटें, दूसरी तरफ घी लगाएं, और एक स्पैटुला से धीरे से दबाएं। तब तक पकाएं जब तक दोनों तरफ हल्के भूरे रंग के धब्बे न आ जाएं और पोली थोड़ी फूल न जाए।"
+      },
+      {
+        "title": "Serve Warm",
+        "text": "Transfer the hot Puran Poli to a plate. Serve immediately with a generous dollop of ghee, a bowl of warm milk, or a side of Katachi Amti for a complete Maharashtrian experience. / गर्म पूरन पोली को एक प्लेट में निकाल लें। इसे तुरंत घी, एक कटोरी गर्म दूध, या कटाची आमटी के साथ परोसें ताकि एक पूर्ण महाराष्ट्रीयन अनुभव मिल सके।"
+      }
+    ],
+    "nutrition": {
+      "calories": 380,
+      "fat": 15,
+      "protein": 9,
+      "carbs": 55
+    },
+    "cuisine": "Konkani Coastal",
+    "id": "2026-07-01-3",
+    "fileName": "konkani-gul-poli-golden-lentil-sweetbread.html",
+    "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Kolhapuri Tadka Shev Bhaji: A Fiery Maharashtrian Delight",
+    "description": "Experience the vibrant and bold flavors of Maharashtra with our Kolhapuri Tadka Shev Bhaji. This iconic vegetarian curry features crispy gram flour noodles (sev) immersed in a rich, spicy, and aromatic gravy, prepared with a distinct Kolhapuri spice blend. Perfect for a hearty dinner, it promises an explosion of taste that will transport you straight to the streets of Kolhapur. / महाराष्ट्र के जीवंत और तीखे स्वाद का अनुभव करें हमारी कोल्हापुरी तड़का शेव भाजी के साथ। यह प्रसिद्ध शाकाहारी करी कुरकुरी बेसन की सेव को एक गाढ़ी, मसालेदार और सुगंधित ग्रेवी में भिगोकर बनाई जाती है, जिसे विशेष कोल्हापुरी मसालों के मिश्रण से तैयार किया जाता है। एक स्वादिष्ट रात के खाने के लिए एकदम सही, यह स्वाद का ऐसा धमाका है जो आपको सीधे कोल्हापुर की गलियों में ले जाएगा।",
+    "prepTime": 20,
+    "cookTime": 35,
+    "yield": "4 servings",
+    "difficulty": "Medium",
+    "category": "Dinner",
+    "keywords": "Kolhapuri Shev Bhaji, Shev Bhaji Recipe, Maharashtrian Dinner, Spicy Indian Curry, Kolhapuri Tadka, Indian Vegetarian Recipe, Besan Sev Curry, Dinner Recipe",
+    "ingredients": [
+      "3 tbsp cooking oil / ३ बड़े चम्मच खाना पकाने का तेल",
+      "1 tsp mustard seeds / १ छोटा चम्मच राई",
+      "1 tsp cumin seeds / १ छोटा चम्मच जीरा",
+      "8-10 curry leaves / ८-१० कढ़ी पत्ता",
+      "2 large onions, finely chopped / २ बड़े प्याज, बारीक कटे हुए",
+      "1 tbsp ginger-garlic paste / १ बड़ा चम्मच अदरक-लहसुन का पेस्ट",
+      "2 medium tomatoes, pureed / २ मध्यम टमाटर, प्यूरी किए हुए",
+      "1/4 cup grated dry coconut / १/४ कप कद्दूकस किया हुआ सूखा नारियल",
+      "1 tbsp white sesame seeds / १ बड़ा चम्मच सफेद तिल",
+      "1 tsp poppy seeds (khus khus) / १ छोटा चम्मच खसखस",
+      "3-4 dry red chilies (Bedgi or Reshampatti for color and heat) / ३-४ सूखी लाल मिर्च (बेडगी या रेशमपट्टी रंग और तीखेपन के लिए)",
+      "1-inch cinnamon stick / १ इंच दालचीनी का टुकड़ा",
+      "3-4 cloves / ३-४ लौंग",
+      "1 black cardamom pod / १ बड़ी इलायची",
+      "2 green cardamom pods / २ हरी इलायची",
+      "1 star anise / १ चक्र फूल",
+      "1 bay leaf / १ तेज पत्ता",
+      "1/2 tsp turmeric powder / १/२ छोटा चम्मच हल्दी पाउडर",
+      "1 tsp red chili powder (Kashmiri for color) / १ छोटा चम्मच लाल मिर्च पाउडर (कश्मीरी रंग के लिए)",
+      "1.5 tsp coriander powder / १.५ छोटा चम्मच धनिया पाउडर",
+      "1 tsp cumin powder / १ छोटा चम्मच जीरा पाउडर",
+      "1 tsp Kolhapuri Kanda Lasun Masala (adjust to taste) / १ छोटा चम्मच कोल्हापुरी कांदा लसूण मसाला (स्वादानुसार समायोजित करें)",
+      "1/2 tsp Garam Masala / १/२ छोटा चम्मच गरम मसाला",
+      "3-4 cups hot water (adjust for desired consistency) / ३-४ कप गर्म पानी (वांछित गाढ़ापन के लिए समायोजित करें)",
+      "Salt to taste / स्वादानुसार नमक",
+      "2 cups thick besan sev / २ कप मोटी बेसन सेव",
+      "1/4 cup fresh coriander leaves, chopped / १/४ कप ताजी धनिया पत्ती, कटी हुई",
+      "1 lemon, cut into wedges, for serving / १ नींबू, फांकों में कटा हुआ, परोसने के लिए"
+    ],
+    "instructions": [
+      {
+        "title": "Prepare the Kolhapuri Masala Paste",
+        "text": "Dry roast grated dry coconut, white sesame seeds, poppy seeds, and dry red chilies on a medium flame until fragrant and light golden. Set aside to cool. In a mixer grinder, combine the roasted ingredients with ginger-garlic paste, cinnamon stick, cloves, black cardamom, green cardamom, star anise, and bay leaf. Add a little water if needed and grind to a smooth, fine paste. / एक मध्यम आंच पर कद्दूकस किया हुआ सूखा नारियल, सफेद तिल, खसखस और सूखी लाल मिर्च को सुगंधित और हल्का सुनहरा होने तक भून लें। ठंडा होने के लिए अलग रख दें। एक मिक्सर ग्राइंडर में भुनी हुई सामग्री को अदरक-लहसुन का पेस्ट, दालचीनी, लौंग, बड़ी इलायची, हरी इलायची, चक्र फूल और तेज पत्ता के साथ मिलाएं। यदि आवश्यक हो तो थोड़ा पानी डालकर एक चिकना, महीन पेस्ट बना लें।"
+      },
+      {
+        "title": "Sauté the Aromatics",
+        "text": "Heat 3 tbsp oil in a large pot or kadhai over medium heat. Add mustard seeds and let them splutter. Then add cumin seeds and curry leaves, sauté for a few seconds. Add finely chopped onions and sauté until they turn translucent and light golden brown. / एक बड़े बर्तन या कड़ाही में मध्यम आंच पर ३ बड़े चम्मच तेल गरम करें। राई डालें और उन्हें फूटने दें। फिर जीरा और कढ़ी पत्ता डालकर कुछ सेकंड के लिए भूनें। बारीक कटे हुए प्याज डालकर सुनहरा और पारदर्शी होने तक भूनें।"
+      },
+      {
+        "title": "Cook the Tomato Puree and Spices",
+        "text": "Add the prepared Kolhapuri masala paste to the pot and cook for 5-7 minutes on low to medium heat, stirring continuously, until the oil starts to separate. Now, add tomato puree, turmeric powder, red chili powder, coriander powder, cumin powder, and Kolhapuri Kanda Lasun Masala. Mix well and cook for another 5-8 minutes, mashing the tomatoes occasionally, until the mixture thickens and the raw smell disappears. / तैयार कोल्हापुरी मसाला पेस्ट को बर्तन में डालें और ५-७ मिनट तक धीमी से मध्यम आंच पर लगातार चलाते हुए पकाएं, जब तक कि तेल अलग न होने लगे। अब, टमाटर की प्यूरी, हल्दी पाउडर, लाल मिर्च पाउडर, धनिया पाउडर, जीरा पाउडर और कोल्हापुरी कांदा लसूण मसाला डालें। अच्छी तरह मिलाएं और ५-८ मिनट और पकाएं, टमाटरों को कभी-कभी मैश करते रहें, जब तक कि मिश्रण गाढ़ा न हो जाए और कच्ची गंध गायब न हो जाए।"
+      },
+      {
+        "title": "Simmer the Fiery Gravy",
+        "text": "Pour in the hot water, add salt to taste, and garam masala. Mix everything thoroughly. Bring the gravy to a rolling boil, then reduce the heat to low, cover, and let it simmer for 10-15 minutes, allowing the flavors to meld beautifully. You should see a layer of oil (tarri) floating on top. / गर्म पानी डालें, स्वादानुसार नमक और गरम मसाला मिलाएं। सभी सामग्री को अच्छी तरह मिलाएं। ग्रेवी में उबाल आने दें, फिर आंच धीमी कर दें, ढक दें और १०-१५ मिनट तक धीमी आंच पर पकने दें, जिससे स्वाद अच्छी तरह मिल जाएं। आपको ऊपर तेल की एक परत (तर्री) तैरती हुई दिखनी चाहिए।"
+      },
+      {
+        "title": "Serve the Kolhapuri Tadka Shev Bhaji",
+        "text": "To serve, place a generous portion of thick besan sev in a serving bowl. Ladle the hot Kolhapuri gravy over the sev. Garnish with freshly chopped coriander leaves and serve immediately with lemon wedges, bhakri, chapati, or pav. Enjoy! / परोसने के लिए, एक सर्विंग बाउल में मोटी बेसन सेव का एक उदार हिस्सा रखें। सेव के ऊपर गर्म कोल्हापुरी ग्रेवी डालें। ताजी कटी हुई धनिया पत्ती से गार्निश करें और नींबू के फांकों के साथ तुरंत भाकरी, चपाती या पाव के साथ परोसें। आनंद लें!"
+      }
+    ],
+    "nutrition": {
+      "calories": 410,
+      "fat": 28,
+      "protein": 10,
+      "carbs": 35
+    },
+    "cuisine": "Kolhapuri Tadka",
+    "id": "2026-07-01-4",
+    "fileName": "kolhapuri-tadka-shev-bhaji-a-fiery-maharashtrian-delight.html",
+    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Mumbai's Zesty Besan Pitla with Millet Flatbread Medallions",
+    "description": "Experience the vibrant culinary spirit of Mumbai with our exquisite Pitla Bhakri, reinvented as a zesty snack. This 'Mumbai Special' rendition features a robust, spicy chickpea flour curry (Pitla) bursting with aromatic spices, fresh ginger, garlic, and green chilies, offering a tantalizing street-food inspired flavor. It's perfectly paired with delicate, rustic Jowar (sorghum) flatbread medallions, providing a wholesome and satisfying crunch. A perfect blend of tradition and Mumbai's urban zest, ideal for an invigorating snack or a light meal. / मुंबई के जीवंत पाक कला के अनुभव को हमारी शानदार पिटला भाकरी के साथ जिएं, जिसे एक चटपटे स्नैक के रूप में फिर से बनाया गया है। यह 'मुंबई स्पेशल' संस्करण एक मजबूत, मसालेदार बेसन की करी (पिटला) पेश करता है, जिसमें सुगंधित मसाले, ताज़ा अदरक, लहसुन और हरी मिर्च का स्वाद भरा हुआ है, जो एक मोहक स्ट्रीट-फूड प्रेरित स्वाद प्रदान करता है। इसे नाजुक, देहाती ज्वार (बाजरा) की भाकरी के मेडालियन के साथ पूर्ण रूप से परोसा जाता है, जो एक पौष्टिक और संतोषजनक कुरकुरापन प्रदान करता है। यह परंपरा और मुंबई के शहरी जोश का एक आदर्श मिश्रण है, जो एक स्फूर्तिदायक नाश्ते या हल्के भोजन के लिए बेहतरीन है।",
+    "prepTime": 20,
+    "cookTime": 35,
+    "yield": "4 servings",
+    "difficulty": "Medium",
+    "category": "Snack",
+    "keywords": "Maharashtrian Pitla Bhakri, Mumbai Street Food, Besan Curry, Jowar Flatbread, Indian Snack, Spicy Chickpea Flour, Millet Bread, Traditional Maharashtrian Recipe, Indian Vegetarian Snack",
+    "ingredients": [
+      "1 cup Besan (Chickpea Flour) / १ कप बेसन (चना आटा)",
+      "1.5 cups Jowar Flour (Sorghum Flour) / १.५ कप ज्वार का आटा",
+      "1 medium Onion, finely chopped / १ मध्यम आकार का प्याज, बारीक कटा हुआ",
+      "2-3 Green Chilies, finely chopped (adjust to taste) / २-३ हरी मिर्च, बारीक कटी हुई (स्वादानुसार समायोजित करें)",
+      "1 tbsp Ginger-Garlic Paste / १ बड़ा चम्मच अदरक-लहसुन का पेस्ट",
+      "1/2 tsp Turmeric Powder / १/२ छोटा चम्मच हल्दी पाउडर",
+      "1 tsp Red Chili Powder (Kashmiri or regular, adjust to taste) / १ छोटा चम्मच लाल मिर्च पाउडर (कश्मीरी या सामान्य, स्वादानुसार समायोजित करें)",
+      "1 tsp Cumin Powder / १ छोटा चम्मच जीरा पाउडर",
+      "1/2 tsp Coriander Powder / १/२ छोटा चम्मच धनिया पाउडर",
+      "1/2 tsp Garam Masala Powder / १/२ छोटा चम्मच गरम मसाला पाउडर",
+      "1/4 tsp Asafoetida (Hing) / १/४ छोटा चम्मच हींग",
+      "1/2 tsp Mustard Seeds / १/२ छोटा चम्मच राई",
+      "1/2 tsp Cumin Seeds / १/२ छोटा चम्मच जीरा",
+      "8-10 Curry Leaves / ८-१० करी पत्ता",
+      "2 tbsp Fresh Coriander Leaves, chopped / २ बड़े चम्मच ताज़ी धनिया पत्ती, कटी हुई",
+      "3-4 tbsp Cooking Oil / ३-४ बड़े चम्मच खाना पकाने का तेल",
+      "Salt to taste / स्वादानुसार नमक",
+      "1 tsp Lemon Juice / १ छोटा चम्मच नींबू का रस",
+      "Water as needed / आवश्यकतानुसार पानी"
+    ],
+    "instructions": [
+      {
+        "title": "Prepare the Jowar Bhakri Dough",
+        "text": "In a large bowl, combine Jowar flour and salt. Gradually add warm water, kneading into a soft, pliable dough. Cover and set aside for 15 minutes. / एक बड़े कटोरे में, ज्वार का आटा और नमक मिलाएं। धीरे-धीरे गुनगुना पानी डालकर एक नरम, लचीला आटा गूंथ लें। ढककर १५ मिनट के लिए अलग रख दें।"
+      },
+      {
+        "title": "Roll and Cook the Bhakri Medallions",
+        "text": "Divide the dough into small, equal portions. On a floured surface (using Jowar flour), flatten each portion into small medallions (approx. 3-4 inches diameter) using your palm or a rolling pin. Heat a non-stick tawa (griddle) on medium-high heat. Place a bhakri medallion, apply a little water on the top surface with your fingers, and cook until bubbles appear. Flip and cook both sides until golden brown spots appear. Repeat for all medallions. / आटे को छोटे, बराबर भागों में बांट लें। ज्वार के आटे से डस्ट की हुई सतह पर, प्रत्येक भाग को अपनी हथेली या बेलन का उपयोग करके छोटे मेडालियन (लगभग ३-४ इंच व्यास) में चपटा करें। मध्यम-तेज आंच पर एक नॉन-स्टिक तवा गरम करें। एक भाकरी मेडालियन रखें, अपनी उंगलियों से ऊपरी सतह पर थोड़ा पानी लगाएं, और बुलबुले आने तक पकाएं। पलटें और दोनों तरफ से सुनहरा भूरा होने तक पकाएं। सभी मेडालियन के लिए दोहराएं।"
+      },
+      {
+        "title": "Prepare the Besan Slurry",
+        "text": "In a bowl, combine Besan with 1 cup of water, ensuring there are no lumps. Add turmeric powder, red chili powder, cumin powder, coriander powder, and garam masala. Mix well and set aside. / एक कटोरे में, बेसन को १ कप पानी के साथ मिलाएं, सुनिश्चित करें कि कोई गांठ न हो। हल्दी पाउडर, लाल मिर्च पाउडर, जीरा पाउडर, धनिया पाउडर और गरम मसाला डालें। अच्छी तरह मिलाएं और अलग रख दें।"
+      },
+      {
+        "title": "Temper and Sauté Aromatics for Pitla",
+        "text": "Heat 2 tablespoons of oil in a deep pan or kadai over medium heat. Add mustard seeds and cumin seeds, let them splutter. Then add asafoetida and curry leaves, sauté for a few seconds. Add finely chopped onion, green chilies, and ginger-garlic paste. Sauté until the onion turns translucent and light golden. / मध्यम आंच पर एक गहरे पैन या कढ़ाई में २ बड़े चम्मच तेल गरम करें। राई और जीरा डालें, उन्हें चटकने दें। फिर हींग और करी पत्ता डालें, कुछ सेकंड के लिए भूनें। बारीक कटा हुआ प्याज, हरी मिर्च और अदरक-लहसुन का पेस्ट डालें। प्याज के पारदर्शी और हल्का सुनहरा होने तक भूनें।"
+      },
+      {
+        "title": "Cook the Pitla",
+        "text": "Pour the prepared Besan slurry into the pan, stirring continuously to prevent lumps. Add 1.5 to 2 cups of hot water gradually, stirring constantly until the mixture thickens to a smooth, creamy consistency. Season with salt. Bring it to a gentle boil, then reduce heat to low, cover, and simmer for 5-7 minutes, stirring occasionally, until the besan is fully cooked and the oil separates slightly. / तैयार बेसन की घोल को पैन में डालें, गांठ बनने से रोकने के लिए लगातार चलाते रहें। धीरे-धीरे १.५ से २ कप गर्म पानी डालें, लगातार चलाते हुए जब तक मिश्रण एक चिकनी, मलाईदार स्थिरता में गाढ़ा न हो जाए। नमक के साथ सीज़न करें। इसे धीमी आंच पर उबाल लें, फिर आंच कम कर दें, ढककर ५-७ मिनट तक धीमी आंच पर पकाएं, बीच-बीच में चलाते रहें, जब तक कि बेसन पूरी तरह से पक न जाए और तेल थोड़ा अलग न हो जाए।"
+      },
+      {
+        "title": "Finish and Serve the Pitla",
+        "text": "Stir in lemon juice and most of the fresh coriander leaves. Mix well. Serve the hot Mumbai Special Besan Pitla garnished with remaining fresh coriander leaves, accompanied by the Jowar Bhakri Medallions. / नींबू का रस और अधिकांश ताज़ी धनिया पत्ती मिलाएं। अच्छी तरह मिलाएं। गरमागरम मुंबई स्पेशल बेसन पिटला को बची हुई ताज़ी धनिया पत्ती से सजाकर, ज्वार भाकरी मेडालियन के साथ परोसें।"
+      }
+    ],
+    "nutrition": {
+      "calories": 350,
+      "fat": 12,
+      "protein": 8,
+      "carbs": 45
+    },
+    "cuisine": "Mumbai Special",
+    "id": "2026-07-01-5",
+    "fileName": "mumbais-zesty-besan-pitla-with-millet-flatbread-medallions.html",
+    "imageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Puneri Shev Bhaji: A Royal Homage to Maharashtrian Comfort",
+    "description": "Experience the soulful essence of Pune with this exquisite Shev Bhaji, a culinary masterpiece that transforms humble gram flour fritters (shev) into a rich, aromatic curry. Prepared Puneri style, it balances robust spices with a subtle hint of tang and sweetness, making it a perfect hearty dinner. Traditionally served with Bhakri or Puri, this dish promises a delightful journey through Maharashtra's gastronomic heritage.\n/ अनुभव करें पुणे के आत्मिक स्वाद का इस उत्तम शेव भाजी के साथ, एक पाक कला का चमत्कार जो साधारण बेसन के सेव को एक समृद्ध, सुगंधित करी में बदल देता है। पुणेरी शैली में तैयार, यह तेज़ मसालों को खटास और मिठास के संकेत के साथ संतुलित करता है, जिससे यह एक बेहतरीन और पेट भरने वाला रात का खाना बन जाता है। पारंपरिक रूप से भाकरी या पूरी के साथ परोसा जाने वाला यह व्यंजन, महाराष्ट्र की गैस्ट्रोनॉमिक विरासत के माध्यम से एक आनंदमय यात्रा का वादा करता है।",
+    "prepTime": 20,
+    "cookTime": 35,
+    "yield": "4-5 servings",
+    "difficulty": "Medium",
+    "category": "Dinner",
+    "keywords": "Puneri Shev Bhaji, Maharashtrian Dinner, Traditional Indian Curry, Besan Sev Sabzi, Pune Cuisine, Spicy Gram Flour Curry, Dinner Recipe, Indian Vegetarian, Puneri Thali",
+    "ingredients": [
+      "2 large onions, roughly chopped / २ बड़े प्याज, मोटे कटे हुए",
+      "1/4 cup dry coconut (kopra), grated or chopped / १/४ कप सूखा नारियल (कोपरा), कद्दूकस किया हुआ या कटा हुआ",
+      "10-12 cashews (kaju), optional / १०-१२ काजू, वैकल्पिक",
+      "1 tbsp ginger-garlic paste / १ बड़ा चम्मच अदरक-लहसुन का पेस्ट",
+      "2 medium tomatoes, roughly chopped / २ मध्यम टमाटर, मोटे कटे हुए",
+      "3 tbsp oil / ३ बड़े चम्मच तेल",
+      "1 tsp mustard seeds (rai) / १ छोटा चम्मच राई",
+      "1 tsp cumin seeds (jeera) / १ छोटा चम्मच जीरा",
+      "1/4 tsp asafoetida (hing) / १/४ छोटा चम्मच हींग",
+      "1/2 tsp turmeric powder (haldi) / १/२ छोटा चम्मच हल्दी पाउडर",
+      "1 tbsp Kashmiri red chili powder / १ बड़ा चम्मच कश्मीरी लाल मिर्च पाउडर",
+      "1 tsp regular red chili powder (or to taste) / १ छोटा चम्मच लाल मिर्च पाउडर (या स्वादानुसार)",
+      "2 tbsp Goda Masala / २ बड़े चम्मच गोडा मसाला",
+      "1 tbsp coriander powder (dhaniya powder) / १ बड़ा चम्मच धनिया पाउडर",
+      "1/2 tsp cumin powder (jeera powder) / १/२ छोटा चम्मच जीरा पाउडर",
+      "1 tsp jaggery (gud) or sugar, optional / १ छोटा चम्मच गुड़ या चीनी, वैकल्पिक",
+      "1 tbsp tamarind pulp (imli ka guda) or 1-2 kokum / १ बड़ा चम्मच इमली का गूदा या १-२ कोकम",
+      "Salt to taste / नमक स्वादानुसार",
+      "3 cups hot water / ३ कप गर्म पानी",
+      "1 cup thick shev (besan sev) / १ कप मोटे सेव (बेसन सेव)",
+      "Fresh coriander leaves, chopped, for garnish / ताजी धनिया पत्ती, कटी हुई, सजावट के लिए",
+      "1 small onion, finely chopped, for garnish / १ छोटा प्याज, बारीक कटा हुआ, सजावट के लिए",
+      "Lemon wedges, for serving / नींबू के टुकड़े, परोसने के लिए"
+    ],
+    "instructions": [
+      {
+        "title": "Prepare the Gravy Base Aromatics",
+        "text": "Heat 1 tbsp oil in a pan. Add the roughly chopped onions, dry coconut, and cashews. Sauté on medium heat until the onions turn translucent and the coconut turns light golden. Remove from heat and let it cool. / एक पैन में १ बड़ा चम्मच तेल गरम करें। मोटे कटे हुए प्याज, सूखा नारियल और काजू डालें। मध्यम आंच पर तब तक भूनें जब तक प्याज पारदर्शी न हो जाए और नारियल हल्का सुनहरा न हो जाए। आंच से उतारकर ठंडा होने दें।"
+      },
+      {
+        "title": "Make the Gravy Paste",
+        "text": "Transfer the cooled onion-coconut mixture to a grinder jar. Add the roughly chopped tomatoes and ginger-garlic paste. Grind to a very smooth paste, adding a little water if needed. / ठंडे प्याज-नारियल मिश्रण को मिक्सर जार में डालें। मोटे कटे हुए टमाटर और अदरक-लहसुन का पेस्ट डालें। थोड़ा पानी डालकर बहुत ही महीन पेस्ट बना लें।"
+      },
+      {
+        "title": "Sauté the Gravy Paste",
+        "text": "Heat the remaining 2 tbsp oil in a deep pan or kadai. Add mustard seeds and let them splutter. Then add cumin seeds and asafoetida, and sauté for a few seconds. Add the prepared smooth gravy paste and mix well. Cook on medium heat for 10-12 minutes, stirring occasionally, until the oil separates from the paste and the paste darkens. / एक गहरे पैन या कड़ाही में बचा हुआ २ बड़े चम्मच तेल गरम करें। राई डालें और उन्हें चटकने दें। फिर जीरा और हींग डालकर कुछ सेकंड के लिए भूनें। तैयार चिकना ग्रेवी पेस्ट डालें और अच्छी तरह मिलाएं। मध्यम आंच पर १०-१२ मिनट तक पकाएं, बीच-बीच में हिलाते रहें, जब तक तेल पेस्ट से अलग न हो जाए और पेस्ट गहरा न हो जाए।"
+      },
+      {
+        "title": "Add Spices and Simmer",
+        "text": "Now add turmeric powder, both red chili powders, Goda Masala, coriander powder, and cumin powder. Mix thoroughly and cook for another 2-3 minutes. Add jaggery/sugar (if using), tamarind pulp, and salt to taste. Pour in the hot water and bring the curry to a boil. Reduce heat and let it simmer for 8-10 minutes, allowing the flavors to meld. / अब हल्दी पाउडर, दोनों लाल मिर्च पाउडर, गोडा मसाला, धनिया पाउडर और जीरा पाउडर डालें। अच्छी तरह मिलाएं और २-३ मिनट तक और पकाएं। गुड़/चीनी (यदि उपयोग कर रहे हैं), इमली का गूदा और स्वादानुसार नमक डालें। गर्म पानी डालें और करी को उबाल आने दें। आंच कम करें और ८-१० मिनट तक धीमी आंच पर पकने दें, ताकि स्वाद अच्छी तरह मिल जाएं।"
+      },
+      {
+        "title": "Assemble and Serve",
+        "text": "Just before serving, place a generous amount of thick shev in a serving bowl. Ladle the hot curry over the shev. Garnish with finely chopped fresh coriander leaves and finely chopped raw onion. Serve immediately with lemon wedges, along with Bhakri, Puri, or Roti. / परोसने से ठीक पहले, एक सर्विंग बाउल में ढेर सारे मोटे सेव डालें। सेव के ऊपर गर्म करी डालें। बारीक कटी हुई ताजी धनिया पत्ती और बारीक कटे कच्चे प्याज से गार्निश करें। नींबू के टुकड़ों के साथ तुरंत परोसें, साथ में भाकरी, पूरी या रोटी भी दें।"
+      }
+    ],
+    "nutrition": {
+      "calories": 420,
+      "fat": 19,
+      "protein": 11,
+      "carbs": 55
+    },
+    "cuisine": "Puneri Thali",
+    "id": "2026-07-01-1",
+    "fileName": "puneri-shev-bhaji-a-royal-homage-to-maharashtrian-comfort.html",
+    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80",
+    "date": "2026-07-01"
+  },
+  {
     "title": "Soft and Fluffy Idli with Aromatic Sambar",
     "description": "Learn to make perfect, melt-in-your-mouth soft steamed rice idlis served with a flavorful vegetable sambar and fresh coconut chutney. / सीखें एकदम नरम, मुंह में घुलने वाली इडली, स्वादिष्ट सांबर और ताजी नारियल की चटनी बनाने की सबसे आसान विधि।",
     "prepTime": 20,
